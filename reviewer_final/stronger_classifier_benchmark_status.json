@@ -1,0 +1,17 @@
+{
+  "status": "not_estimable_from_available_inputs",
+  "reason": "No frozen challenger prediction census exists for the same 26,279 passage IDs.",
+  "available_noncomparable_assets": [
+    "Qwen2.5-3B development-set predictions",
+    "Qwen2.5-7B development-set predictions",
+    "Qwen2.5-7B prompt-2 development-set predictions",
+    "Frozen Qwen2.5-7B production census"
+  ],
+  "why_development_outputs_are_not_a_benchmark": "The 100 development passages informed model and prompt selection and are excluded from the inferential frame; they cannot provide an independent stronger-classifier test.",
+  "required_completion": [
+    "Freeze a challenger model, prompt, quantization, decoding configuration, and hashes before evaluation.",
+    "Predict exactly the same 26,279 passage IDs.",
+    "Run the paired design-weighted benchmark against the existing audit only if audit outcomes did not inform challenger selection; otherwise collect a fresh probability test sample."
+  ],
+  "claim_boundary": "Absence of a benchmark result is not evidence that the frozen classifier is competitive with stronger models."
+}

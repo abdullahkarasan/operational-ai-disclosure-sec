@@ -1,0 +1,1001 @@
+source,annotation_id,human_status,human_operational,model_operational,operational_votes,sector,form,year,period,weight,sampling_cell,cell
+original_200,GOLD-c33f6764d42e,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-c33f6764d42e,TP
+original_200,GOLD-530bd3ec5e2b,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-530bd3ec5e2b,TN
+original_200,GOLD-4cd3a9c76123,uncertain,False,True,3,Real Estate,10-Q,2024,2023-2025,1.0,original_exact|GOLD-4cd3a9c76123,FP
+original_200,GOLD-021c3f31a30e,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-021c3f31a30e,TP
+original_200,GOLD-1ab2e0d84532,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,1.0,original_exact|GOLD-1ab2e0d84532,TN
+original_200,GOLD-1e73ce5c4f82,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-1e73ce5c4f82,TP
+original_200,GOLD-6b1525853f27,operational,True,True,3,Industrials,10-K,2022,2017-2022,1.0,original_exact|GOLD-6b1525853f27,TP
+original_200,GOLD-62b07f6d4e4e,operational,True,True,3,Information Technology,10-K,2023,2023-2025,1.0,original_exact|GOLD-62b07f6d4e4e,TP
+original_200,GOLD-43c86a9320cc,irrelevant_general,False,False,0,Real Estate,10-Q,2018,2017-2022,1.0,original_exact|GOLD-43c86a9320cc,TN
+original_200,GOLD-678d113df2e3,operational,True,False,0,Financials,10-K,2025,2023-2025,1.0,original_exact|GOLD-678d113df2e3,FN
+original_200,GOLD-8197660f4820,irrelevant_general,False,True,3,Information Technology,10-Q,2023,2023-2025,1.0,original_exact|GOLD-8197660f4820,FP
+original_200,GOLD-05e202b3171c,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-05e202b3171c,TP
+original_200,GOLD-53cba700700e,operational,True,True,3,Information Technology,10-K,2023,2023-2025,1.0,original_exact|GOLD-53cba700700e,TP
+original_200,GOLD-47b689d16e78,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-47b689d16e78,TN
+original_200,GOLD-97d73776531d,operational,True,True,3,Utilities,10-K,2025,2023-2025,1.0,original_exact|GOLD-97d73776531d,TP
+original_200,GOLD-32c8a4148fc8,operational,True,True,3,Consumer Staples,10-K,2024,2023-2025,1.0,original_exact|GOLD-32c8a4148fc8,TP
+original_200,GOLD-5cc202b7b46a,operational,True,True,3,Industrials,10-K,2020,2017-2022,1.0,original_exact|GOLD-5cc202b7b46a,TP
+original_200,GOLD-1e8a00ea392b,operational,True,False,3,Financials,10-Q,2025,2023-2025,1.0,original_exact|GOLD-1e8a00ea392b,FN
+original_200,GOLD-638e53488efc,operational,True,True,3,Energy,10-K,2021,2017-2022,1.0,original_exact|GOLD-638e53488efc,TP
+original_200,GOLD-286ee78c42c3,operational,True,True,3,Energy,10-K,2018,2017-2022,1.0,original_exact|GOLD-286ee78c42c3,TP
+original_200,GOLD-266bdc736ae4,uncertain,False,True,2,Health Care,10-K,2024,2023-2025,1.0,original_exact|GOLD-266bdc736ae4,FP
+original_200,GOLD-bb475cfa2fcf,operational,True,False,0,Real Estate,10-Q,2020,2017-2022,1.0,original_exact|GOLD-bb475cfa2fcf,FN
+original_200,GOLD-8e6f53a27503,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-8e6f53a27503,TN
+original_200,GOLD-b19c20c05081,operational,True,True,3,Information Technology,10-K,2020,2017-2022,1.0,original_exact|GOLD-b19c20c05081,TP
+original_200,GOLD-cc866e08401e,operational,True,False,0,Materials,10-K,2025,2023-2025,1.0,original_exact|GOLD-cc866e08401e,FN
+original_200,GOLD-362ec9caa5f3,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-362ec9caa5f3,TP
+original_200,GOLD-a8816de16aa2,operational,True,True,3,Communication Services,10-Q,2025,2023-2025,1.0,original_exact|GOLD-a8816de16aa2,TP
+original_200,GOLD-dadb337c8228,operational,True,True,3,Information Technology,10-K,2019,2017-2022,1.0,original_exact|GOLD-dadb337c8228,TP
+original_200,GOLD-a63c8709c3e2,operational,True,True,3,Information Technology,10-K,2023,2023-2025,1.0,original_exact|GOLD-a63c8709c3e2,TP
+original_200,GOLD-d82beb8d1d5c,planned,False,False,0,Information Technology,10-K,2023,2023-2025,1.0,original_exact|GOLD-d82beb8d1d5c,TN
+original_200,GOLD-fa5d64e6d64b,operational,True,False,1,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-fa5d64e6d64b,FN
+original_200,GOLD-87100ba84aa1,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-87100ba84aa1,TP
+original_200,GOLD-39bcdcf90da7,planned,False,False,0,Consumer Discretionary,10-K,2023,2023-2025,1.0,original_exact|GOLD-39bcdcf90da7,TN
+original_200,GOLD-ecb63393552e,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-ecb63393552e,TP
+original_200,GOLD-040d78b8a005,uncertain,False,True,3,Real Estate,10-K,2025,2023-2025,1.0,original_exact|GOLD-040d78b8a005,FP
+original_200,GOLD-00f5c0c633a6,irrelevant_general,False,False,0,Real Estate,10-Q,2023,2023-2025,1.0,original_exact|GOLD-00f5c0c633a6,TN
+original_200,GOLD-8e67b6725af7,operational,True,False,3,Information Technology,10-Q,2023,2023-2025,1.0,original_exact|GOLD-8e67b6725af7,FN
+original_200,GOLD-71a1d02c602c,operational,True,True,3,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-71a1d02c602c,TP
+original_200,GOLD-5a62c61be4fb,irrelevant_general,False,True,3,Financials,10-Q,2023,2023-2025,1.0,original_exact|GOLD-5a62c61be4fb,FP
+original_200,GOLD-6fb99d253deb,operational,True,False,3,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-6fb99d253deb,FN
+original_200,GOLD-eb07b960eece,operational,True,False,0,Industrials,10-Q,2025,2023-2025,1.0,original_exact|GOLD-eb07b960eece,FN
+original_200,GOLD-eb078a05fac9,operational,True,True,3,Information Technology,8-K,2017,2017-2022,1.0,original_exact|GOLD-eb078a05fac9,TP
+original_200,GOLD-5ca98f4d1d2f,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-5ca98f4d1d2f,TP
+original_200,GOLD-1b9bf52bf25c,irrelevant_general,False,False,0,Energy,10-K,2021,2017-2022,1.0,original_exact|GOLD-1b9bf52bf25c,TN
+original_200,GOLD-6bbc031c7287,operational,True,False,0,Materials,10-Q,2025,2023-2025,1.0,original_exact|GOLD-6bbc031c7287,FN
+original_200,GOLD-4796f576a541,planned,False,False,0,Materials,10-K,2025,2023-2025,1.0,original_exact|GOLD-4796f576a541,TN
+original_200,GOLD-9e1198b8860f,operational,True,True,3,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-9e1198b8860f,TP
+original_200,GOLD-be5f25b2975d,operational,True,False,0,Financials,10-K,2023,2023-2025,1.0,original_exact|GOLD-be5f25b2975d,FN
+original_200,GOLD-315ceda669d0,operational,True,True,3,Communication Services,10-K,2019,2017-2022,1.0,original_exact|GOLD-315ceda669d0,TP
+original_200,GOLD-91490b7878c9,irrelevant_general,False,False,0,Health Care,10-Q,2025,2023-2025,1.0,original_exact|GOLD-91490b7878c9,TN
+original_200,GOLD-0ec5f75a11ad,operational,True,True,3,Real Estate,10-Q,2020,2017-2022,1.0,original_exact|GOLD-0ec5f75a11ad,TP
+original_200,GOLD-62daf3576bb4,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-62daf3576bb4,TP
+original_200,GOLD-533e5d67732c,irrelevant_general,False,False,0,Communication Services,10-K,2025,2023-2025,1.0,original_exact|GOLD-533e5d67732c,TN
+original_200,GOLD-76516e76cf5f,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-76516e76cf5f,TP
+original_200,GOLD-c2b463b38261,planned,False,True,3,Consumer Staples,10-Q,2022,2017-2022,1.0,original_exact|GOLD-c2b463b38261,FP
+original_200,GOLD-06f58579e07e,operational,True,True,3,Health Care,10-K,2019,2017-2022,1.0,original_exact|GOLD-06f58579e07e,TP
+original_200,GOLD-6c9c2d126bd2,planned,False,False,3,Financials,10-K,2018,2017-2022,1.0,original_exact|GOLD-6c9c2d126bd2,TN
+original_200,GOLD-f5a1a750eacd,operational,True,True,3,Health Care,10-K,2024,2023-2025,1.0,original_exact|GOLD-f5a1a750eacd,TP
+original_200,GOLD-c14e813e5052,operational,True,True,3,Industrials,10-Q,2020,2017-2022,1.0,original_exact|GOLD-c14e813e5052,TP
+original_200,GOLD-851cdb348ede,operational,True,True,3,Industrials,10-Q,2018,2017-2022,1.0,original_exact|GOLD-851cdb348ede,TP
+original_200,GOLD-4d812bb0ee15,operational,True,True,3,Materials,10-K,2021,2017-2022,1.0,original_exact|GOLD-4d812bb0ee15,TP
+original_200,GOLD-2365d541f540,operational,True,True,3,Health Care,10-Q,2018,2017-2022,1.0,original_exact|GOLD-2365d541f540,TP
+original_200,GOLD-1f6d923bae12,operational,True,True,3,Energy,8-K,2021,2017-2022,1.0,original_exact|GOLD-1f6d923bae12,TP
+original_200,GOLD-33fb4a997307,operational,True,False,3,Communication Services,10-K,2019,2017-2022,1.0,original_exact|GOLD-33fb4a997307,FN
+original_200,GOLD-3fd61bceb1c3,operational,True,False,0,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-3fd61bceb1c3,FN
+original_200,GOLD-6a6d577324ee,operational,True,True,3,Health Care,10-K,2024,2023-2025,1.0,original_exact|GOLD-6a6d577324ee,TP
+original_200,GOLD-387c0c38d9bc,operational,True,True,3,Industrials,10-K,2021,2017-2022,1.0,original_exact|GOLD-387c0c38d9bc,TP
+original_200,GOLD-3201137c8e79,operational,True,True,3,Industrials,10-K,2024,2023-2025,1.0,original_exact|GOLD-3201137c8e79,TP
+original_200,GOLD-62a2dcf01cd5,planned,False,False,0,Consumer Staples,10-Q,2025,2023-2025,1.0,original_exact|GOLD-62a2dcf01cd5,TN
+original_200,GOLD-9917de6d1515,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-9917de6d1515,TP
+original_200,GOLD-89546f936e21,operational,True,True,3,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-89546f936e21,TP
+original_200,GOLD-1a1163053afc,operational,True,True,3,Communication Services,10-K,2021,2017-2022,1.0,original_exact|GOLD-1a1163053afc,TP
+original_200,GOLD-e7e810e449cf,operational,True,True,2,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-e7e810e449cf,TP
+original_200,GOLD-598c8257583c,irrelevant_general,False,False,0,Health Care,10-Q,2024,2023-2025,1.0,original_exact|GOLD-598c8257583c,TN
+original_200,GOLD-86f16a7f565f,irrelevant_general,False,False,0,Communication Services,10-K,2025,2023-2025,1.0,original_exact|GOLD-86f16a7f565f,TN
+original_200,GOLD-d63ed461e369,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-d63ed461e369,FP
+original_200,GOLD-528526460ded,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-528526460ded,TN
+original_200,GOLD-aceec86607ca,irrelevant_general,False,False,0,Real Estate,10-K,2024,2023-2025,1.0,original_exact|GOLD-aceec86607ca,TN
+original_200,GOLD-5a13b0b5b746,operational,True,True,3,Health Care,8-K,2020,2017-2022,1.0,original_exact|GOLD-5a13b0b5b746,TP
+original_200,GOLD-b0a24f8b1839,operational,True,True,3,Information Technology,10-K,2017,2017-2022,1.0,original_exact|GOLD-b0a24f8b1839,TP
+original_200,GOLD-4400c1099fc0,irrelevant_general,False,False,0,Energy,10-K,2024,2023-2025,1.0,original_exact|GOLD-4400c1099fc0,TN
+original_200,GOLD-475c2cbb19ae,planned,False,False,0,Communication Services,10-Q,2023,2023-2025,1.0,original_exact|GOLD-475c2cbb19ae,TN
+original_200,GOLD-7cd078d5a209,operational,True,True,3,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-7cd078d5a209,TP
+original_200,GOLD-be977ec9de4b,operational,True,True,3,Industrials,10-Q,2024,2023-2025,1.0,original_exact|GOLD-be977ec9de4b,TP
+original_200,GOLD-0312c0d71611,planned,False,False,0,Information Technology,10-Q,2020,2017-2022,1.0,original_exact|GOLD-0312c0d71611,TN
+original_200,GOLD-6e95c325e5e5,operational,True,True,3,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-6e95c325e5e5,TP
+original_200,GOLD-9d8524395c8a,irrelevant_general,False,False,0,Information Technology,10-Q,2017,2017-2022,1.0,original_exact|GOLD-9d8524395c8a,TN
+original_200,GOLD-868829574572,operational,True,False,0,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-868829574572,FN
+original_200,GOLD-40b32d6d957d,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,1.0,original_exact|GOLD-40b32d6d957d,TN
+original_200,GOLD-b7b831b8a23c,operational,True,True,3,Utilities,10-Q,2024,2023-2025,1.0,original_exact|GOLD-b7b831b8a23c,TP
+original_200,GOLD-22f2126a6272,operational,True,False,3,Industrials,10-K,2025,2023-2025,1.0,original_exact|GOLD-22f2126a6272,FN
+original_200,GOLD-a9cc17b5fd8b,operational,True,True,3,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-a9cc17b5fd8b,TP
+original_200,GOLD-e2d0b6d44298,irrelevant_general,False,False,0,Communication Services,10-K,2021,2017-2022,1.0,original_exact|GOLD-e2d0b6d44298,TN
+original_200,GOLD-c41ab8708e17,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-c41ab8708e17,TP
+original_200,GOLD-bb0b665487cd,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-bb0b665487cd,TN
+original_200,GOLD-39db344fdd0f,planned,False,True,3,Financials,10-Q,2025,2023-2025,1.0,original_exact|GOLD-39db344fdd0f,FP
+original_200,GOLD-e7830de5ecaf,operational,True,True,3,Industrials,10-K,2023,2023-2025,1.0,original_exact|GOLD-e7830de5ecaf,TP
+original_200,GOLD-e7db286e09d1,operational,True,True,3,Energy,8-K,2019,2017-2022,1.0,original_exact|GOLD-e7db286e09d1,TP
+original_200,GOLD-a55a1273f61a,planned,False,True,3,Information Technology,8-K,2021,2017-2022,1.0,original_exact|GOLD-a55a1273f61a,FP
+original_200,GOLD-0541b2dd6582,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-0541b2dd6582,TP
+original_200,GOLD-d20c2d31f961,operational,True,True,2,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-d20c2d31f961,TP
+original_200,GOLD-e97516ad0018,irrelevant_general,False,True,3,Information Technology,10-Q,2018,2017-2022,1.0,original_exact|GOLD-e97516ad0018,FP
+original_200,GOLD-3147d223b2c9,operational,True,False,0,Information Technology,8-K,2018,2017-2022,1.0,original_exact|GOLD-3147d223b2c9,FN
+original_200,GOLD-339159358864,operational,True,False,3,Financials,10-Q,2022,2017-2022,1.0,original_exact|GOLD-339159358864,FN
+original_200,GOLD-fc17d9172e57,operational,True,False,3,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-fc17d9172e57,FN
+original_200,GOLD-eb90171a5acd,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-eb90171a5acd,TN
+original_200,GOLD-34ddb9779c84,planned,False,False,0,Communication Services,10-K,2025,2023-2025,1.0,original_exact|GOLD-34ddb9779c84,TN
+original_200,GOLD-634b796541c2,operational,True,True,3,Communication Services,10-Q,2025,2023-2025,1.0,original_exact|GOLD-634b796541c2,TP
+original_200,GOLD-e50f2aa44110,operational,True,True,3,Industrials,10-K,2022,2017-2022,1.0,original_exact|GOLD-e50f2aa44110,TP
+original_200,GOLD-4dd36f77583f,operational,True,True,3,Industrials,10-K,2022,2017-2022,1.0,original_exact|GOLD-4dd36f77583f,TP
+original_200,GOLD-1660b4dae153,operational,True,True,3,Information Technology,10-K,2020,2017-2022,1.0,original_exact|GOLD-1660b4dae153,TP
+original_200,GOLD-072eca9738b1,irrelevant_general,False,False,3,Information Technology,10-Q,2020,2017-2022,1.0,original_exact|GOLD-072eca9738b1,TN
+original_200,GOLD-c78904aad999,operational,True,True,3,Industrials,10-K,2018,2017-2022,1.0,original_exact|GOLD-c78904aad999,TP
+original_200,GOLD-8f76984fbe4d,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-8f76984fbe4d,FP
+original_200,GOLD-4ab1092032b5,operational,True,False,1,Financials,10-K,2024,2023-2025,1.0,original_exact|GOLD-4ab1092032b5,FN
+original_200,GOLD-48a2d09d079e,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-48a2d09d079e,TP
+original_200,GOLD-4fcd62dcf550,operational,True,True,3,Health Care,10-Q,2022,2017-2022,1.0,original_exact|GOLD-4fcd62dcf550,TP
+original_200,GOLD-8be58f20cb84,planned,False,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-8be58f20cb84,TN
+original_200,GOLD-a1cf81795c67,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2025,2023-2025,1.0,original_exact|GOLD-a1cf81795c67,TN
+original_200,GOLD-3ec296503bb4,planned,False,False,0,Financials,10-Q,2023,2023-2025,1.0,original_exact|GOLD-3ec296503bb4,TN
+original_200,GOLD-5c6e3a488afc,operational,True,True,3,Information Technology,10-Q,2022,2017-2022,1.0,original_exact|GOLD-5c6e3a488afc,TP
+original_200,GOLD-88c82ef5f1ce,operational,True,True,3,Information Technology,10-K,2023,2023-2025,1.0,original_exact|GOLD-88c82ef5f1ce,TP
+original_200,GOLD-011791e6b6f2,operational,True,True,3,Energy,8-K,2022,2017-2022,1.0,original_exact|GOLD-011791e6b6f2,TP
+original_200,GOLD-e4b389dd60fb,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-e4b389dd60fb,FN
+original_200,GOLD-02b76dcbfa0a,operational,True,True,3,Industrials,10-K,2024,2023-2025,1.0,original_exact|GOLD-02b76dcbfa0a,TP
+original_200,GOLD-e80e09d5a18a,operational,True,True,3,Communication Services,10-Q,2021,2017-2022,1.0,original_exact|GOLD-e80e09d5a18a,TP
+original_200,GOLD-70cb8e1eaf47,operational,True,True,3,Information Technology,10-Q,2023,2023-2025,1.0,original_exact|GOLD-70cb8e1eaf47,TP
+original_200,GOLD-c402e1b7c6e5,irrelevant_general,False,False,0,Consumer Staples,8-K,2021,2017-2022,1.0,original_exact|GOLD-c402e1b7c6e5,TN
+original_200,GOLD-a584d489d025,operational,True,True,3,Financials,10-K,2023,2023-2025,1.0,original_exact|GOLD-a584d489d025,TP
+original_200,GOLD-fe2cd9d79396,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-fe2cd9d79396,TN
+original_200,GOLD-9e2a8bb9897c,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2020,2017-2022,1.0,original_exact|GOLD-9e2a8bb9897c,TN
+original_200,GOLD-dbc7c80049fc,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,1.0,original_exact|GOLD-dbc7c80049fc,TN
+original_200,GOLD-207f6301eed3,operational,True,False,3,Financials,10-K,2025,2023-2025,1.0,original_exact|GOLD-207f6301eed3,FN
+original_200,GOLD-6d474eeeb6db,operational,True,False,0,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-6d474eeeb6db,FN
+original_200,GOLD-805669fb98de,operational,True,True,3,Real Estate,8-K,2020,2017-2022,1.0,original_exact|GOLD-805669fb98de,TP
+original_200,GOLD-e13e0c8a8f54,operational,True,True,3,Industrials,10-K,2022,2017-2022,1.0,original_exact|GOLD-e13e0c8a8f54,TP
+original_200,GOLD-b49ae118caa1,operational,True,True,3,Energy,10-K,2025,2023-2025,1.0,original_exact|GOLD-b49ae118caa1,TP
+original_200,GOLD-c8b73eb091c2,operational,True,True,3,Financials,10-K,2025,2023-2025,1.0,original_exact|GOLD-c8b73eb091c2,TP
+original_200,GOLD-0422c82fcbd5,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-0422c82fcbd5,TN
+original_200,GOLD-b2ce8a1f8c0e,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-b2ce8a1f8c0e,TP
+original_200,GOLD-04139e5ef57f,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-04139e5ef57f,TP
+original_200,GOLD-b86b00947809,operational,True,True,3,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-b86b00947809,TP
+original_200,GOLD-9394f2a396cb,operational,True,False,3,Financials,10-K,2025,2023-2025,1.0,original_exact|GOLD-9394f2a396cb,FN
+original_200,GOLD-87a5f7695839,operational,True,True,3,Financials,10-K,2025,2023-2025,1.0,original_exact|GOLD-87a5f7695839,TP
+original_200,GOLD-1daf79c7fd2c,operational,True,True,3,Industrials,10-K,2025,2023-2025,1.0,original_exact|GOLD-1daf79c7fd2c,TP
+original_200,GOLD-1d558db7da0b,irrelevant_general,False,False,1,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-1d558db7da0b,TN
+original_200,GOLD-d4fb55491404,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-d4fb55491404,TN
+original_200,GOLD-6c53caee4363,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-6c53caee4363,TP
+original_200,GOLD-0108365c85a2,irrelevant_general,False,False,0,Real Estate,10-Q,2024,2023-2025,1.0,original_exact|GOLD-0108365c85a2,TN
+original_200,GOLD-9c8044a83bda,irrelevant_general,False,False,0,Real Estate,10-K,2025,2023-2025,1.0,original_exact|GOLD-9c8044a83bda,TN
+original_200,GOLD-380e464348a8,operational,True,True,3,Communication Services,10-Q,2021,2017-2022,1.0,original_exact|GOLD-380e464348a8,TP
+original_200,GOLD-99648ee504e4,irrelevant_general,False,True,3,Information Technology,10-K,2023,2023-2025,1.0,original_exact|GOLD-99648ee504e4,FP
+original_200,GOLD-2f7d74bf5158,operational,True,True,3,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-2f7d74bf5158,TP
+original_200,GOLD-b839f35128ce,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-b839f35128ce,TP
+original_200,GOLD-97aed59bb544,operational,True,True,3,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-97aed59bb544,TP
+original_200,GOLD-3ba17918e90c,operational,True,True,3,Health Care,10-K,2024,2023-2025,1.0,original_exact|GOLD-3ba17918e90c,TP
+original_200,GOLD-7a3fc9f2364d,operational,True,True,3,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-7a3fc9f2364d,TP
+original_200,GOLD-7ae827024216,operational,True,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-7ae827024216,TP
+original_200,GOLD-25151db4be67,operational,True,True,3,Industrials,10-K,2023,2023-2025,1.0,original_exact|GOLD-25151db4be67,TP
+original_200,GOLD-20622357eea8,operational,True,True,3,Consumer Staples,10-K,2019,2017-2022,1.0,original_exact|GOLD-20622357eea8,TP
+original_200,GOLD-161fd644a44a,operational,True,False,2,Industrials,10-Q,2024,2023-2025,1.0,original_exact|GOLD-161fd644a44a,FN
+original_200,GOLD-41479b5c6122,operational,True,False,0,Information Technology,10-Q,2022,2017-2022,1.0,original_exact|GOLD-41479b5c6122,FN
+original_200,GOLD-6e4459df6f77,operational,True,True,3,Industrials,10-Q,2023,2023-2025,1.0,original_exact|GOLD-6e4459df6f77,TP
+original_200,GOLD-23dfceebb0b9,operational,True,True,3,Industrials,10-K,2018,2017-2022,1.0,original_exact|GOLD-23dfceebb0b9,TP
+original_200,GOLD-30d41025ce64,operational,True,True,3,Financials,8-K,2018,2017-2022,1.0,original_exact|GOLD-30d41025ce64,TP
+original_200,GOLD-1c56d2505973,operational,True,True,3,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-1c56d2505973,TP
+original_200,GOLD-07e04501df77,irrelevant_general,False,True,3,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-07e04501df77,FP
+original_200,GOLD-18f272ae49b2,irrelevant_general,False,True,3,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-18f272ae49b2,FP
+original_200,GOLD-e50ac7defc26,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-e50ac7defc26,TN
+original_200,GOLD-77aa996a011d,irrelevant_general,False,True,2,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-77aa996a011d,FP
+original_200,GOLD-c57a66c31815,operational,True,True,3,Industrials,10-K,2025,2023-2025,1.0,original_exact|GOLD-c57a66c31815,TP
+original_200,GOLD-37f1ab7d2cbe,planned,False,False,0,Utilities,10-K,2025,2023-2025,1.0,original_exact|GOLD-37f1ab7d2cbe,TN
+original_200,GOLD-aba56a70c7e0,operational,True,False,0,Materials,10-K,2022,2017-2022,1.0,original_exact|GOLD-aba56a70c7e0,FN
+original_200,GOLD-3bea8258fad4,irrelevant_general,False,True,3,Information Technology,10-K,2021,2017-2022,1.0,original_exact|GOLD-3bea8258fad4,FP
+original_200,GOLD-85f02fd57f81,operational,True,True,3,Information Technology,10-Q,2023,2023-2025,1.0,original_exact|GOLD-85f02fd57f81,TP
+original_200,GOLD-9e271604ca1d,irrelevant_general,False,False,0,Communication Services,10-K,2025,2023-2025,1.0,original_exact|GOLD-9e271604ca1d,TN
+original_200,GOLD-89723765aa03,operational,True,True,3,Information Technology,10-K,2022,2017-2022,1.0,original_exact|GOLD-89723765aa03,TP
+original_200,GOLD-31c084fda5ed,irrelevant_general,False,False,0,Materials,10-K,2020,2017-2022,1.0,original_exact|GOLD-31c084fda5ed,TN
+original_200,GOLD-3dcd28d82e6e,operational,True,True,3,Consumer Discretionary,10-Q,2022,2017-2022,1.0,original_exact|GOLD-3dcd28d82e6e,TP
+original_200,GOLD-23c55e58f783,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-23c55e58f783,TN
+original_200,GOLD-f619d64628d4,operational,True,True,3,Consumer Discretionary,10-Q,2024,2023-2025,1.0,original_exact|GOLD-f619d64628d4,TP
+original_200,GOLD-c87fcd58dfa3,operational,True,True,3,Information Technology,10-K,2024,2023-2025,1.0,original_exact|GOLD-c87fcd58dfa3,TP
+original_200,GOLD-cc3f324f8856,operational,True,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-cc3f324f8856,FN
+original_200,GOLD-9908ccf451ab,irrelevant_general,False,False,1,Information Technology,10-K,2018,2017-2022,1.0,original_exact|GOLD-9908ccf451ab,TN
+original_200,GOLD-bb35fa043280,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-bb35fa043280,TP
+original_200,GOLD-8e03cfbe2b8f,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-8e03cfbe2b8f,TP
+original_200,GOLD-4f3e63eaa6c9,operational,True,True,3,Industrials,10-K,2021,2017-2022,1.0,original_exact|GOLD-4f3e63eaa6c9,TP
+original_200,GOLD-9bae722f46d3,irrelevant_general,False,True,3,Financials,10-K,2024,2023-2025,1.0,original_exact|GOLD-9bae722f46d3,FP
+original_200,GOLD-a81fe46067c8,operational,True,True,3,Health Care,10-K,2025,2023-2025,1.0,original_exact|GOLD-a81fe46067c8,TP
+original_200,GOLD-aa9b49e06738,operational,True,False,3,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-aa9b49e06738,FN
+original_200,GOLD-481d0565237b,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-481d0565237b,TN
+original_200,GOLD-4041fd9df81d,operational,True,True,3,Information Technology,10-K,2019,2017-2022,1.0,original_exact|GOLD-4041fd9df81d,TP
+original_200,GOLD-012402f9dc5c,operational,True,True,3,Financials,8-K,2018,2017-2022,1.0,original_exact|GOLD-012402f9dc5c,TP
+original_200,GOLD-6f295d277ae7,operational,True,False,3,Information Technology,10-Q,2025,2023-2025,1.0,original_exact|GOLD-6f295d277ae7,FN
+original_200,GOLD-f080b6fca5de,irrelevant_general,False,False,0,Industrials,10-K,2024,2023-2025,1.0,original_exact|GOLD-f080b6fca5de,TN
+original_200,GOLD-85665abccb2a,operational,True,True,3,Health Care,10-Q,2025,2023-2025,1.0,original_exact|GOLD-85665abccb2a,TP
+original_200,GOLD-4f76a94de9d0,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,1.0,original_exact|GOLD-4f76a94de9d0,FN
+original_200,GOLD-17ec1eb4957e,planned,False,False,0,Financials,10-Q,2021,2017-2022,1.0,original_exact|GOLD-17ec1eb4957e,TN
+original_200,GOLD-df57b85ec8ad,operational,True,False,3,Information Technology,10-Q,2022,2017-2022,1.0,original_exact|GOLD-df57b85ec8ad,FN
+original_200,GOLD-9812d36f2768,operational,True,False,0,Information Technology,10-K,2025,2023-2025,1.0,original_exact|GOLD-9812d36f2768,FN
+augmentation_800,AUG-d3acf5182fc1,irrelevant_general,False,False,0,Information Technology,10-K,2020,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-5a51a8de4986,operational,True,True,3,Financials,10-K,2021,2017-2022,10.25,system_positive|2017-2022|10-K|Financials,TP
+augmentation_800,AUG-f7a6ad70c39f,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-8e844e17e379,irrelevant_general,False,False,1,Information Technology,10-K,2021,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-23b69a67b23d,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-00ad1a4839c4,operational,True,False,3,Health Care,10-K,2022,2017-2022,1.6666666666666667,negative_boundary|2017-2022|10-K|Health Care,FN
+augmentation_800,AUG-079acff842a6,operational,True,False,0,Utilities,8-K,2020,2017-2022,2.0,negative_zero_vote|2017-2022|8-K|Utilities,FN
+augmentation_800,AUG-9c517950f3d6,planned,False,False,0,Communication Services,10-K,2025,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-4fe616b8b0e7,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-8ae322a8d7c7,irrelevant_general,False,True,3,Information Technology,8-K,2020,2017-2022,12.666666666666666,system_positive|2017-2022|8-K|Information Technology,FP
+augmentation_800,AUG-daafb5fc8c7e,irrelevant_general,False,False,0,Information Technology,10-Q,2022,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-dce84b96aea9,irrelevant_general,False,False,1,Information Technology,10-Q,2019,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-8eb32d780369,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-c2c65a838ccc,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-97993cecb3cf,irrelevant_general,False,False,0,Materials,10-Q,2025,2023-2025,49.0,negative_zero_vote|2023-2025|10-Q|Materials,TN
+augmentation_800,AUG-4558544d1360,planned,False,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-0f51778b9192,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-1ae56509edc3,operational,True,True,3,Information Technology,10-Q,2020,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-500cddef54aa,irrelevant_general,False,False,0,Information Technology,10-K,2022,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-79e56d35c023,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-b0fbcafb6df3,uncertain,False,False,0,Communication Services,10-K,2025,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-81378f9f4c50,irrelevant_general,False,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-1ca5ee0add22,operational,True,False,3,Industrials,10-Q,2025,2023-2025,2.3333333333333335,negative_boundary|2023-2025|10-Q|Industrials,FN
+augmentation_800,AUG-df4c854d27a7,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-f4450f46d2bb,operational,True,False,3,Consumer Discretionary,10-Q,2025,2023-2025,2.0,negative_boundary|2023-2025|10-Q|Consumer Discretionary,FN
+augmentation_800,AUG-58ba3661372d,planned,False,True,3,Information Technology,8-K,2020,2017-2022,12.666666666666666,system_positive|2017-2022|8-K|Information Technology,FP
+augmentation_800,AUG-50943960b708,operational,True,False,1,Industrials,10-K,2025,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,FN
+augmentation_800,AUG-1ba3517dcab1,irrelevant_general,False,True,3,Health Care,10-K,2025,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,FP
+augmentation_800,AUG-46c69d9b6ba5,operational,True,False,1,Industrials,10-K,2020,2017-2022,2.0,negative_boundary|2017-2022|10-K|Industrials,FN
+augmentation_800,AUG-e4c0ef8c0a79,operational,True,True,3,Communication Services,10-K,2021,2017-2022,10.333333333333334,system_positive|2017-2022|10-K|Communication Services,TP
+augmentation_800,AUG-9facec13118c,irrelevant_general,False,False,0,Industrials,10-Q,2024,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-b0666af0ee7d,planned,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-a2e3e25f6e0a,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-f8f649eeb42a,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-e7f624288d87,operational,True,True,3,Consumer Staples,10-K,2025,2023-2025,11.0,system_positive|2023-2025|10-K|Consumer Staples,TP
+augmentation_800,AUG-91b9c01e0ca0,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-3ac8bf93871e,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-0da7672ac881,operational,True,False,1,Information Technology,10-K,2020,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-73090bc09ce5,irrelevant_general,False,False,0,Financials,10-K,2020,2017-2022,51.333333333333336,negative_zero_vote|2017-2022|10-K|Financials,TN
+augmentation_800,AUG-0481f14fa784,irrelevant_general,False,False,1,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-18a0e535e551,operational,True,True,2,Energy,10-K,2025,2023-2025,11.0,system_positive|2023-2025|10-K|Energy,TP
+augmentation_800,AUG-fd1b8a865e70,planned,False,True,3,Health Care,10-K,2023,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,FP
+augmentation_800,AUG-5c4a6c630c2c,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-710a3f9b5ea8,operational,True,True,3,Industrials,10-K,2023,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-9afef2e24719,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-35536dedb21b,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-ecd16da11e6c,irrelevant_general,False,False,3,Industrials,10-K,2025,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-323bb1dfb215,irrelevant_general,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-2026f6143438,operational,True,True,3,Industrials,10-Q,2023,2023-2025,10.0,system_positive|2023-2025|10-Q|Industrials,TP
+augmentation_800,AUG-c73656bfae9d,operational,True,True,3,Financials,10-K,2021,2017-2022,10.25,system_positive|2017-2022|10-K|Financials,TP
+augmentation_800,AUG-f2557b38b8ec,irrelevant_general,False,False,0,Financials,10-K,2024,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-b22a6b385cd8,operational,True,True,3,Real Estate,10-K,2021,2017-2022,5.0,system_positive|2017-2022|10-K|Real Estate,TP
+augmentation_800,AUG-f1faf2b839b7,irrelevant_general,False,False,0,Industrials,10-Q,2017,2017-2022,57.5,negative_zero_vote|2017-2022|10-Q|Industrials,TN
+augmentation_800,AUG-a4a44de3df1e,irrelevant_general,False,False,1,Information Technology,10-K,2021,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-5ac62170df8e,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-2332554d3542,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-d82c148a92ff,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2021,2017-2022,72.0,negative_zero_vote|2017-2022|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-112d3371a7b7,operational,True,True,3,Financials,10-K,2020,2017-2022,10.25,system_positive|2017-2022|10-K|Financials,TP
+augmentation_800,AUG-b834b051a6ce,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-de4818fe963a,irrelevant_general,False,False,0,Industrials,10-K,2023,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-791452c1db97,irrelevant_general,False,False,0,Health Care,10-Q,2024,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-d931cb1cda48,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-435e13afb5d1,operational,True,True,3,Communication Services,10-K,2021,2017-2022,10.333333333333334,system_positive|2017-2022|10-K|Communication Services,TP
+augmentation_800,AUG-02d522eae1ee,planned,False,False,0,Materials,10-K,2020,2017-2022,19.0,negative_zero_vote|2017-2022|10-K|Materials,TN
+augmentation_800,AUG-88351fa05848,operational,True,True,3,Consumer Discretionary,10-Q,2025,2023-2025,8.0,system_positive|2023-2025|10-Q|Consumer Discretionary,TP
+augmentation_800,AUG-b4781bf518fb,irrelevant_general,False,False,0,Financials,10-Q,2022,2017-2022,58.0,negative_zero_vote|2017-2022|10-Q|Financials,TN
+augmentation_800,AUG-c9adbe2bb00f,operational,True,False,3,Information Technology,8-K,2017,2017-2022,2.0,negative_boundary|2017-2022|8-K|Information Technology,FN
+augmentation_800,AUG-0028113d0d6d,planned,False,False,0,Consumer Staples,10-Q,2023,2023-2025,44.5,negative_zero_vote|2023-2025|10-Q|Consumer Staples,TN
+augmentation_800,AUG-08d073e85097,irrelevant_general,False,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-44bd17ea37be,operational,True,True,3,Information Technology,10-K,2018,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-ba317113cd43,irrelevant_general,False,False,0,Communication Services,10-K,2025,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-4661b75747cf,irrelevant_general,False,False,1,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-0bd50d0a3136,operational,True,True,3,Industrials,8-K,2025,2023-2025,2.0,system_positive|2023-2025|8-K|Industrials,TP
+augmentation_800,AUG-05b23b082c3b,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-533a093884d3,irrelevant_general,False,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-3971b843c6ef,operational,True,True,3,Utilities,10-K,2025,2023-2025,6.0,system_positive|2023-2025|10-K|Utilities,TP
+augmentation_800,AUG-d4c61da99120,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-9c54f8170828,operational,True,True,3,Health Care,8-K,2020,2017-2022,7.0,system_positive|2017-2022|8-K|Health Care,TP
+augmentation_800,AUG-b1b9de7114fb,irrelevant_general,False,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-d1bc266237c3,irrelevant_general,False,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-a7c947b9cbaf,irrelevant_general,False,False,0,Information Technology,10-Q,2019,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-c6afe0c28527,irrelevant_general,False,False,0,Information Technology,10-K,2022,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-682b6f9c6e80,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-e405022fad9b,irrelevant_general,False,False,1,Industrials,10-Q,2021,2017-2022,2.0,negative_boundary|2017-2022|10-Q|Industrials,TN
+augmentation_800,AUG-f83ee982ef44,operational,True,False,3,Industrials,10-K,2025,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,FN
+augmentation_800,AUG-e1bf2a274a03,irrelevant_general,False,False,0,Communication Services,10-Q,2024,2023-2025,68.5,negative_zero_vote|2023-2025|10-Q|Communication Services,TN
+augmentation_800,AUG-6afb498d39e2,operational,True,False,3,Information Technology,10-K,2019,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-6b03fe551564,operational,True,False,3,Information Technology,10-Q,2019,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-3057a4608ea9,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-f510de649bc4,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-b67def5b84f4,irrelevant_general,False,False,0,Information Technology,10-K,2018,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-d30651f87cf8,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-3944f082b5ed,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-2cf8b7dc4218,operational,True,True,3,Information Technology,10-K,2020,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-c804ffaca943,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-2d812c84781c,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-f4f3e32d5469,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-6dfa769e09fe,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-186ac7b707d3,operational,True,True,3,Consumer Discretionary,10-K,2023,2023-2025,10.5,system_positive|2023-2025|10-K|Consumer Discretionary,TP
+augmentation_800,AUG-5f0b7994edc5,operational,True,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-82ea0b0b824d,irrelevant_general,False,False,0,Industrials,10-Q,2025,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-50055b0f100e,irrelevant_general,False,False,0,Information Technology,10-K,2018,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-d8c2d9f486a2,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-886902577981,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2025,2023-2025,65.0,negative_zero_vote|2023-2025|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-ad4bda51c054,operational,True,False,0,Information Technology,10-Q,2019,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-1c54fb5f7ab3,operational,True,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-d95c23ed8846,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-0481e79508e1,operational,True,True,3,Communication Services,8-K,2019,2017-2022,11.0,system_positive|2017-2022|8-K|Communication Services,TP
+augmentation_800,AUG-fb4fc00f0a38,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-4b9399e546dd,operational,True,False,3,Industrials,10-K,2024,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,FN
+augmentation_800,AUG-ea84598d7c9d,operational,True,True,3,Materials,10-K,2020,2017-2022,1.0,system_positive|2017-2022|10-K|Materials,TP
+augmentation_800,AUG-592b1b7ea1a0,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2023,2023-2025,65.0,negative_zero_vote|2023-2025|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-35342df09576,irrelevant_general,False,False,0,Real Estate,10-Q,2024,2023-2025,56.5,negative_zero_vote|2023-2025|10-Q|Real Estate,TN
+augmentation_800,AUG-3754cd8dc49d,planned,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-95874f86c31a,operational,True,False,1,Health Care,10-Q,2022,2017-2022,1.0,negative_boundary|2017-2022|10-Q|Health Care,FN
+augmentation_800,AUG-9a9ce3f8fe90,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-e2df65b0b098,operational,True,False,3,Industrials,10-K,2020,2017-2022,2.0,negative_boundary|2017-2022|10-K|Industrials,FN
+augmentation_800,AUG-987ca7aa5f31,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-be45a07c471c,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-f1dfdb912464,irrelevant_general,False,True,3,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-d7cf46fb578b,irrelevant_general,False,False,0,Financials,10-K,2024,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-c7d48a0f3c22,operational,True,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-a9bda5dcc7df,operational,True,True,3,Industrials,10-Q,2020,2017-2022,12.0,system_positive|2017-2022|10-Q|Industrials,TP
+augmentation_800,AUG-dfa8691fd66b,irrelevant_general,False,True,3,Communication Services,10-Q,2025,2023-2025,11.75,system_positive|2023-2025|10-Q|Communication Services,FP
+augmentation_800,AUG-15399c5c70ea,uncertain,False,False,1,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-68879001d112,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-9a8b30eb10db,irrelevant_general,False,False,1,Information Technology,10-Q,2019,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-42aefac3f47e,irrelevant_general,False,False,0,Industrials,10-Q,2024,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-cec7beb619dd,irrelevant_general,False,False,0,Information Technology,10-K,2020,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-afdf876f96c4,irrelevant_general,False,False,0,Information Technology,10-K,2020,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-70aefa337f4f,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-cced37381ef3,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-1e03990e5396,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-3ba56e83b325,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-b62ddad0efb6,operational,True,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-9a3ed6225c96,operational,True,False,3,Consumer Discretionary,10-K,2024,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,FN
+augmentation_800,AUG-e5355f7974e9,irrelevant_general,False,False,0,Information Technology,10-K,2019,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-daba95c6a001,irrelevant_general,False,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-fc537b53dac9,operational,True,True,3,Industrials,10-Q,2022,2017-2022,12.0,system_positive|2017-2022|10-Q|Industrials,TP
+augmentation_800,AUG-c468679c7199,operational,True,True,3,Industrials,10-Q,2022,2017-2022,12.0,system_positive|2017-2022|10-Q|Industrials,TP
+augmentation_800,AUG-d515f64219e6,operational,True,False,3,Materials,8-K,2020,2017-2022,1.0,negative_boundary|2017-2022|8-K|Materials,FN
+augmentation_800,AUG-c4c3eaf015c9,operational,True,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-426ddd7f2107,operational,True,True,3,Health Care,10-K,2024,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-a9605b0ea8fd,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-59e17db01dde,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-0a04e8ac2326,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-fff0aa5d4bd4,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-8bc49ffc463b,irrelevant_general,False,False,3,Consumer Discretionary,8-K,2021,2017-2022,1.5,negative_boundary|2017-2022|8-K|Consumer Discretionary,TN
+augmentation_800,AUG-2aff95ffd6ba,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-c0a13e9db4e0,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-7788b6e9aada,irrelevant_general,False,False,0,Communication Services,10-Q,2025,2023-2025,68.5,negative_zero_vote|2023-2025|10-Q|Communication Services,TN
+augmentation_800,AUG-cde6ab2da7b4,irrelevant_general,False,False,0,Information Technology,8-K,2021,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-9a952820847f,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-20c9213f0baf,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-ceafcb6379ee,operational,True,True,3,Health Care,10-Q,2021,2017-2022,9.5,system_positive|2017-2022|10-Q|Health Care,TP
+augmentation_800,AUG-e35e6487b288,irrelevant_general,False,True,3,Industrials,8-K,2019,2017-2022,13.0,system_positive|2017-2022|8-K|Industrials,FP
+augmentation_800,AUG-cc0e4ce825ac,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-c167a294142c,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-2387d55f8f0f,operational,True,False,3,Communication Services,10-K,2025,2023-2025,2.25,negative_boundary|2023-2025|10-K|Communication Services,FN
+augmentation_800,AUG-ca037c558ea1,irrelevant_general,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-372a862f9182,operational,True,True,3,Health Care,10-K,2023,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-cd8ddb567f83,irrelevant_general,False,False,0,Utilities,10-K,2022,2017-2022,16.0,negative_zero_vote|2017-2022|10-K|Utilities,TN
+augmentation_800,AUG-b39ef4cd54d8,planned,False,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-db1f172c795d,operational,True,True,3,Information Technology,10-K,2020,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-2ef9738f5353,irrelevant_general,False,False,3,Information Technology,10-K,2018,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-6c46aff019f3,operational,True,True,3,Financials,10-Q,2024,2023-2025,9.0,system_positive|2023-2025|10-Q|Financials,TP
+augmentation_800,AUG-75d9591c39ab,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-6fc21ffb621a,irrelevant_general,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-5cfdb04b95ba,irrelevant_general,False,False,1,Materials,10-K,2025,2023-2025,2.0,negative_boundary|2023-2025|10-K|Materials,TN
+augmentation_800,AUG-31cfb6d1ef86,operational,True,False,3,Information Technology,10-K,2020,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-b8273c6df4ad,irrelevant_general,False,False,0,Real Estate,10-Q,2025,2023-2025,56.5,negative_zero_vote|2023-2025|10-Q|Real Estate,TN
+augmentation_800,AUG-443b2a89a79e,operational,True,False,3,Financials,8-K,2020,2017-2022,1.5,negative_boundary|2017-2022|8-K|Financials,FN
+augmentation_800,AUG-0358aa31b8c8,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-54c994090cec,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-3c9f09e108a9,irrelevant_general,False,False,0,Consumer Staples,10-K,2024,2023-2025,57.8,negative_zero_vote|2023-2025|10-K|Consumer Staples,TN
+augmentation_800,AUG-685acc6a0048,irrelevant_general,False,False,0,Utilities,10-K,2025,2023-2025,61.333333333333336,negative_zero_vote|2023-2025|10-K|Utilities,TN
+augmentation_800,AUG-f22c0c2418b2,irrelevant_general,False,False,3,Consumer Discretionary,10-K,2022,2017-2022,2.0,negative_boundary|2017-2022|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-16864b7e798e,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-398b5cefbfda,irrelevant_general,False,False,3,Industrials,10-K,2024,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-359247d3f634,irrelevant_general,False,False,0,Real Estate,10-Q,2024,2023-2025,56.5,negative_zero_vote|2023-2025|10-Q|Real Estate,TN
+augmentation_800,AUG-9d420db3dfc6,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-79736f1bf701,operational,True,True,3,Consumer Discretionary,10-Q,2020,2017-2022,11.0,system_positive|2017-2022|10-Q|Consumer Discretionary,TP
+augmentation_800,AUG-e4a0de47b298,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-4d33b487e190,operational,True,True,3,Health Care,10-K,2025,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-2d7cb457b4c3,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-60de5663dcd6,planned,False,False,0,Materials,8-K,2020,2017-2022,1.0,negative_zero_vote|2017-2022|8-K|Materials,TN
+augmentation_800,AUG-c78def02e618,operational,True,False,3,Information Technology,10-Q,2018,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-4c26e4747afc,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-dd0f83ee620d,operational,True,False,3,Energy,10-K,2021,2017-2022,2.0,negative_boundary|2017-2022|10-K|Energy,FN
+augmentation_800,AUG-2958cf1d588e,planned,False,False,0,Utilities,10-Q,2020,2017-2022,6.0,negative_zero_vote|2017-2022|10-Q|Utilities,TN
+augmentation_800,AUG-d1bc564de613,irrelevant_general,False,True,3,Energy,10-Q,2021,2017-2022,6.0,system_positive|2017-2022|10-Q|Energy,FP
+augmentation_800,AUG-cdd8e66c94f4,planned,False,False,3,Information Technology,10-K,2021,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-b04f0ade512b,uncertain,False,False,0,Real Estate,8-K,2017,2017-2022,6.0,negative_zero_vote|2017-2022|8-K|Real Estate,TN
+augmentation_800,AUG-178f18d8c469,irrelevant_general,False,False,3,Consumer Discretionary,10-K,2024,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-a554f1f8235d,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-48260361bfad,irrelevant_general,False,False,3,Energy,10-K,2021,2017-2022,2.0,negative_boundary|2017-2022|10-K|Energy,TN
+augmentation_800,AUG-4bf58fe54ea2,operational,True,True,3,Industrials,10-K,2023,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-61066b4f93b4,operational,True,False,3,Financials,10-K,2024,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-8bdb12467ab2,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-a40ad36e2ec1,operational,True,False,1,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-ff5b5a80f0be,planned,False,False,0,Energy,8-K,2019,2017-2022,37.0,negative_zero_vote|2017-2022|8-K|Energy,TN
+augmentation_800,AUG-9845da9e8b4f,irrelevant_general,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-2959f1cd1938,irrelevant_general,False,False,1,Financials,10-K,2018,2017-2022,2.0,negative_boundary|2017-2022|10-K|Financials,TN
+augmentation_800,AUG-0a6300a30438,planned,False,True,3,Financials,10-Q,2025,2023-2025,9.0,system_positive|2023-2025|10-Q|Financials,FP
+augmentation_800,AUG-59088c7a1996,irrelevant_general,False,False,0,Financials,10-Q,2023,2023-2025,69.83333333333333,negative_zero_vote|2023-2025|10-Q|Financials,TN
+augmentation_800,AUG-12808742db49,irrelevant_general,False,False,2,Information Technology,10-K,2019,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-b1f7bcad8550,operational,True,True,3,Industrials,10-K,2025,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-6e294ca8d7ba,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-4dc3439d4d38,irrelevant_general,False,False,1,Energy,10-K,2024,2023-2025,2.0,negative_boundary|2023-2025|10-K|Energy,TN
+augmentation_800,AUG-77e8c56dd46c,operational,True,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-49a9ebb7a876,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-e29783c7ccc3,irrelevant_general,False,False,0,Financials,10-K,2024,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-45c34e1555fb,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-7c39cc171e3d,operational,True,False,3,Energy,8-K,2021,2017-2022,1.5,negative_boundary|2017-2022|8-K|Energy,FN
+augmentation_800,AUG-6b38e36b1d54,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-b77b79d0ea97,operational,True,False,1,Information Technology,10-K,2019,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-ef92e320e7d3,operational,True,False,3,Health Care,10-K,2019,2017-2022,1.6666666666666667,negative_boundary|2017-2022|10-K|Health Care,FN
+augmentation_800,AUG-3dcade77e520,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-974c9be957b2,operational,True,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-7196acee7197,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-2c1bc95a4c4b,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-269b08fc2b8a,irrelevant_general,False,False,0,Financials,10-K,2020,2017-2022,51.333333333333336,negative_zero_vote|2017-2022|10-K|Financials,TN
+augmentation_800,AUG-18390b2536ae,irrelevant_general,False,False,0,Financials,10-K,2024,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-247af80b2779,operational,True,True,3,Financials,10-K,2024,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-dbf83ef35581,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-97feadc242b3,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-220d5aea72e6,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-d7fa9d3681dc,planned,False,True,3,Consumer Staples,10-Q,2023,2023-2025,2.0,system_positive|2023-2025|10-Q|Consumer Staples,FP
+augmentation_800,AUG-2177686a0abe,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-20cf49b88417,irrelevant_general,False,False,0,Consumer Discretionary,8-K,2025,2023-2025,1.0,negative_zero_vote|2023-2025|8-K|Consumer Discretionary,TN
+augmentation_800,AUG-aab56786119b,operational,True,True,3,Communication Services,10-K,2024,2023-2025,13.0,system_positive|2023-2025|10-K|Communication Services,TP
+augmentation_800,AUG-cdfe80125932,irrelevant_general,False,False,0,Communication Services,10-K,2024,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-774f372bc199,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-13b9ff7994f4,irrelevant_general,False,True,2,Energy,10-Q,2024,2023-2025,1.0,system_positive|2023-2025|10-Q|Energy,FP
+augmentation_800,AUG-6998c0674b0e,irrelevant_general,False,False,0,Real Estate,10-K,2024,2023-2025,62.25,negative_zero_vote|2023-2025|10-K|Real Estate,TN
+augmentation_800,AUG-885c51c45ce3,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-4dd52540d255,operational,True,False,1,Communication Services,10-Q,2024,2023-2025,1.0,negative_boundary|2023-2025|10-Q|Communication Services,FN
+augmentation_800,AUG-0af9c4c5cb6b,irrelevant_general,False,False,0,Information Technology,10-Q,2022,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-5c1b27889d66,irrelevant_general,False,False,0,Consumer Staples,10-K,2024,2023-2025,57.8,negative_zero_vote|2023-2025|10-K|Consumer Staples,TN
+augmentation_800,AUG-e0af185f3997,irrelevant_general,False,False,3,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-599f6f0e382d,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-29c2af728e4f,operational,True,True,3,Industrials,10-Q,2024,2023-2025,10.0,system_positive|2023-2025|10-Q|Industrials,TP
+augmentation_800,AUG-41a590d0cd0d,irrelevant_general,False,True,3,Communication Services,10-K,2025,2023-2025,13.0,system_positive|2023-2025|10-K|Communication Services,FP
+augmentation_800,AUG-57c06615ff78,irrelevant_general,False,False,0,Industrials,10-K,2023,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-1af048bed49b,operational,True,False,0,Consumer Discretionary,8-K,2019,2017-2022,55.5,negative_zero_vote|2017-2022|8-K|Consumer Discretionary,FN
+augmentation_800,AUG-c1b2ce04fdbf,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-4f5a7ad9f331,irrelevant_general,False,False,1,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-61d2164c5dba,operational,True,False,1,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-38af6afe608c,planned,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-c12a4b9ef636,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-512a4840e23c,operational,True,True,3,Information Technology,8-K,2020,2017-2022,12.666666666666666,system_positive|2017-2022|8-K|Information Technology,TP
+augmentation_800,AUG-3cbed92faba2,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-2e7f2a04e05d,operational,True,True,3,Financials,10-K,2025,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-7befa47cdb89,operational,True,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-e26a51688228,operational,True,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-966604ae2850,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-7bcab1d56eb1,operational,True,True,3,Information Technology,10-Q,2018,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-79c9729d75ef,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-b23426a62b8b,operational,True,False,1,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-e41a03431df3,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-2f9cdc606a1e,irrelevant_general,False,False,0,Communication Services,8-K,2025,2023-2025,10.0,negative_zero_vote|2023-2025|8-K|Communication Services,TN
+augmentation_800,AUG-8d3c47101362,irrelevant_general,False,False,0,Communication Services,10-K,2023,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-d073c3a8c4e3,irrelevant_general,False,False,0,Energy,10-Q,2024,2023-2025,42.0,negative_zero_vote|2023-2025|10-Q|Energy,TN
+augmentation_800,AUG-3133c4e0d965,irrelevant_general,False,False,1,Information Technology,10-Q,2021,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-eaa4f3483215,irrelevant_general,False,True,3,Financials,10-K,2019,2017-2022,10.25,system_positive|2017-2022|10-K|Financials,FP
+augmentation_800,AUG-f75493aee253,irrelevant_general,False,False,0,Consumer Staples,10-K,2024,2023-2025,57.8,negative_zero_vote|2023-2025|10-K|Consumer Staples,TN
+augmentation_800,AUG-806e5614fabe,operational,True,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-43cb0ea9f95a,irrelevant_general,False,True,3,Industrials,10-Q,2023,2023-2025,10.0,system_positive|2023-2025|10-Q|Industrials,FP
+augmentation_800,AUG-fdabee9285be,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-1e89d5065584,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2024,2023-2025,65.0,negative_zero_vote|2023-2025|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-6fb1f28c1f4d,operational,True,True,3,Financials,10-Q,2023,2023-2025,9.0,system_positive|2023-2025|10-Q|Financials,TP
+augmentation_800,AUG-6663209f9807,irrelevant_general,False,False,0,Information Technology,10-Q,2020,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-823a10ff9027,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-d26d75d5cceb,operational,True,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-4711c2ae2a7d,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-f774f3aef785,operational,True,True,3,Energy,10-K,2021,2017-2022,9.0,system_positive|2017-2022|10-K|Energy,TP
+augmentation_800,AUG-7b7cb9bc3d06,operational,True,False,1,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-4e80497077db,operational,True,True,3,Health Care,10-K,2020,2017-2022,11.5,system_positive|2017-2022|10-K|Health Care,TP
+augmentation_800,AUG-417306445105,operational,True,False,1,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-dbfd07e80a2c,planned,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-5c1850955656,irrelevant_general,False,False,0,Real Estate,10-K,2025,2023-2025,62.25,negative_zero_vote|2023-2025|10-K|Real Estate,TN
+augmentation_800,AUG-4bf9cddf4458,operational,True,False,3,Consumer Discretionary,10-K,2025,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,FN
+augmentation_800,AUG-5c1f3813b7c3,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-d7053aead8ca,operational,True,True,3,Information Technology,10-Q,2021,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-fa9fe1b8dad7,irrelevant_general,False,False,0,Health Care,10-Q,2024,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-dec2399e37a1,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-11d6938997da,operational,True,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-436e85c03d6e,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-3f18f40514e8,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-9701361d92e1,irrelevant_general,False,False,0,Financials,10-Q,2025,2023-2025,69.83333333333333,negative_zero_vote|2023-2025|10-Q|Financials,TN
+augmentation_800,AUG-4073a01b8ce1,irrelevant_general,False,False,0,Information Technology,8-K,2020,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-903fb7c167e7,operational,True,True,3,Industrials,10-K,2023,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-65eebb45ce58,irrelevant_general,False,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-a8ac89062d74,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-bb8ecbcd0e39,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-82d76ad9a369,planned,False,False,0,Financials,10-Q,2023,2023-2025,69.83333333333333,negative_zero_vote|2023-2025|10-Q|Financials,TN
+augmentation_800,AUG-60f3669cf980,irrelevant_general,False,False,0,Information Technology,10-K,2019,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-2b75176f7649,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-9791bc143cfb,operational,True,True,3,Industrials,10-K,2021,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-5237238af6bd,irrelevant_general,False,False,0,Information Technology,10-K,2018,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-46edbbf826c7,irrelevant_general,False,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-0210473f1181,operational,True,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-7e8830c7d184,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-5d497d56fa70,irrelevant_general,False,False,0,Real Estate,10-K,2025,2023-2025,62.25,negative_zero_vote|2023-2025|10-K|Real Estate,TN
+augmentation_800,AUG-01ac3cf4c98c,irrelevant_general,False,False,1,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-b1e0d707e79c,irrelevant_general,False,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-cccf7c3caf93,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-116ee2838737,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-9cf58a86e1d4,irrelevant_general,False,False,0,Industrials,8-K,2025,2023-2025,1.0,negative_zero_vote|2023-2025|8-K|Industrials,TN
+augmentation_800,AUG-683896664709,irrelevant_general,False,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-c7ce2794372a,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-ad8ee4871916,operational,True,True,3,Energy,8-K,2020,2017-2022,8.0,system_positive|2017-2022|8-K|Energy,TP
+augmentation_800,AUG-8f63911b3220,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-711cf162831d,irrelevant_general,False,False,3,Consumer Discretionary,10-Q,2018,2017-2022,1.0,negative_boundary|2017-2022|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-06434191ccb4,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-0c6002f15461,operational,True,True,3,Utilities,10-Q,2025,2023-2025,12.0,system_positive|2023-2025|10-Q|Utilities,TP
+augmentation_800,AUG-25d1f28914a0,operational,True,True,3,Health Care,10-K,2024,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-83150f5daa0d,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-70cfbdac6808,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-efd71875757d,planned,False,False,0,Financials,10-Q,2023,2023-2025,69.83333333333333,negative_zero_vote|2023-2025|10-Q|Financials,TN
+augmentation_800,AUG-201a5912b0a5,irrelevant_general,False,False,0,Industrials,10-Q,2025,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-2176daaa5f47,irrelevant_general,False,False,0,Communication Services,10-Q,2017,2017-2022,39.0,negative_zero_vote|2017-2022|10-Q|Communication Services,TN
+augmentation_800,AUG-1c6f394b7c94,irrelevant_general,False,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-f8ce55b425c2,irrelevant_general,False,True,3,Industrials,10-Q,2025,2023-2025,10.0,system_positive|2023-2025|10-Q|Industrials,FP
+augmentation_800,AUG-a32a52bdab55,operational,True,True,3,Health Care,10-K,2022,2017-2022,11.5,system_positive|2017-2022|10-K|Health Care,TP
+augmentation_800,AUG-73e751eee002,operational,True,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-7a10878be3a6,irrelevant_general,False,False,1,Information Technology,10-Q,2021,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-1f76e8fcc9e4,irrelevant_general,False,False,0,Industrials,10-Q,2024,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-b5132adf7af5,operational,True,True,3,Financials,10-K,2025,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-9a02f105c626,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-a9771c5f6abe,irrelevant_general,False,False,0,Information Technology,10-K,2018,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-ed3907a5cc3a,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-592c5e2acb8e,irrelevant_general,False,False,0,Information Technology,8-K,2021,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-94a43cecea51,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-28fea27d5d96,planned,False,False,3,Industrials,10-K,2021,2017-2022,2.0,negative_boundary|2017-2022|10-K|Industrials,TN
+augmentation_800,AUG-1c7910a27b6d,operational,True,True,3,Industrials,10-K,2019,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-cede961d7f2b,irrelevant_general,False,False,1,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-83b3aeb07515,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-dc91d1ba9218,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-62e9d9297048,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-697a931b2761,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-f9c46c2d42b3,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-f5b456b69fad,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-6402be7af290,operational,True,True,3,Information Technology,10-Q,2020,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-f92480f3985d,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-610cc7b078a4,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-e68d081f3679,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-b47216241698,operational,True,False,3,Health Care,10-K,2025,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-887b6fae5553,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-3b78f140b2e5,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-43b35faef416,operational,True,True,3,Industrials,10-K,2023,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-9436e5f4403d,operational,True,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-8538d3b7d952,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-1abddb46e32c,operational,True,False,1,Industrials,10-K,2024,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,FN
+augmentation_800,AUG-098f9f16db84,operational,True,False,3,Financials,10-Q,2022,2017-2022,1.0,negative_boundary|2017-2022|10-Q|Financials,FN
+augmentation_800,AUG-f3655c46b5a1,operational,True,True,3,Industrials,10-K,2018,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-9616d04c7c55,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-a5de3cde558f,planned,False,False,0,Financials,10-K,2019,2017-2022,51.333333333333336,negative_zero_vote|2017-2022|10-K|Financials,TN
+augmentation_800,AUG-50c85cca5445,irrelevant_general,False,False,0,Utilities,10-Q,2025,2023-2025,71.0,negative_zero_vote|2023-2025|10-Q|Utilities,TN
+augmentation_800,AUG-ebb0abe9af4a,irrelevant_general,False,False,0,Communication Services,10-Q,2025,2023-2025,68.5,negative_zero_vote|2023-2025|10-Q|Communication Services,TN
+augmentation_800,AUG-d0ccafbd9857,irrelevant_general,False,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-ac0e8bac9a96,irrelevant_general,False,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-1b5a44cb748e,irrelevant_general,False,False,0,Information Technology,10-Q,2021,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-0769343aad67,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-b0851140c62d,operational,True,False,3,Health Care,10-Q,2025,2023-2025,2.0,negative_boundary|2023-2025|10-Q|Health Care,FN
+augmentation_800,AUG-e7d11ab2a8be,planned,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-57089aa2073e,operational,True,True,3,Energy,10-K,2020,2017-2022,9.0,system_positive|2017-2022|10-K|Energy,TP
+augmentation_800,AUG-803c300d83f6,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-9fc71365f2ec,operational,True,False,1,Health Care,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-f371cabd97ac,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-a917f1f7b1cc,operational,True,True,3,Financials,10-Q,2019,2017-2022,13.0,system_positive|2017-2022|10-Q|Financials,TP
+augmentation_800,AUG-f5c8a036184f,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-91865f9c71a8,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-d18951109a66,irrelevant_general,False,False,3,Health Care,10-Q,2025,2023-2025,2.0,negative_boundary|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-2908fb31893d,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-d8c94610e852,irrelevant_general,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-3a8a22e8a929,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-b8dfad9f2e09,operational,True,True,3,Financials,10-Q,2022,2017-2022,13.0,system_positive|2017-2022|10-Q|Financials,TP
+augmentation_800,AUG-ddef14c62f86,operational,True,True,3,Communication Services,10-K,2020,2017-2022,10.333333333333334,system_positive|2017-2022|10-K|Communication Services,TP
+augmentation_800,AUG-c2c89f0f5f4f,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-c51a9f8c1929,operational,True,False,3,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-c4b41a00303a,operational,True,True,3,Health Care,10-K,2024,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-aa2683bfbb0e,irrelevant_general,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-87b89cbcee85,irrelevant_general,False,False,0,Consumer Staples,10-K,2024,2023-2025,57.8,negative_zero_vote|2023-2025|10-K|Consumer Staples,TN
+augmentation_800,AUG-06cf1fcc3351,operational,True,False,3,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-e0c5ab96af06,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2023,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-09bd6cb00efc,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-35c84ce3bd1a,irrelevant_general,False,False,0,Information Technology,10-Q,2021,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-49308bcf3b14,irrelevant_general,False,False,0,Communication Services,10-Q,2019,2017-2022,39.0,negative_zero_vote|2017-2022|10-Q|Communication Services,TN
+augmentation_800,AUG-76937d7fadbd,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-d38fba44af7d,irrelevant_general,False,False,0,Financials,10-K,2024,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-839bca85ff85,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-c1a8cbbdf3bc,operational,True,False,3,Industrials,10-Q,2024,2023-2025,2.3333333333333335,negative_boundary|2023-2025|10-Q|Industrials,FN
+augmentation_800,AUG-0b85900e50d8,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-d18c8d7c30a5,operational,True,True,3,Information Technology,10-K,2020,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-96b7afc3faa1,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-be8a14cb9775,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-888f3c5d4bce,operational,True,False,3,Consumer Staples,10-K,2024,2023-2025,1.5,negative_boundary|2023-2025|10-K|Consumer Staples,FN
+augmentation_800,AUG-3eb3eb9ef690,operational,True,True,3,Financials,8-K,2018,2017-2022,12.0,system_positive|2017-2022|8-K|Financials,TP
+augmentation_800,AUG-1388e01bb058,operational,True,False,1,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-7ae30405c536,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-5eef7b455660,operational,True,False,1,Information Technology,10-Q,2023,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-058100b53534,irrelevant_general,False,False,1,Information Technology,8-K,2020,2017-2022,2.0,negative_boundary|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-58b884f6964e,operational,True,False,0,Industrials,10-K,2021,2017-2022,64.33333333333333,negative_zero_vote|2017-2022|10-K|Industrials,FN
+augmentation_800,AUG-c7dd04f0e02e,operational,True,True,3,Health Care,10-K,2022,2017-2022,11.5,system_positive|2017-2022|10-K|Health Care,TP
+augmentation_800,AUG-2fa0de62426a,irrelevant_general,False,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-2f9ac10552cd,operational,True,False,3,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-d7f563688b7a,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-ed50ca4f68cf,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-34a2da68f854,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-d60619f273e7,operational,True,True,3,Information Technology,10-Q,2021,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-aaa7289ee507,irrelevant_general,False,False,0,Information Technology,10-Q,2019,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-3e37dfb1a735,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-1dff5c70ca14,irrelevant_general,False,False,0,Real Estate,10-K,2025,2023-2025,62.25,negative_zero_vote|2023-2025|10-K|Real Estate,TN
+augmentation_800,AUG-15288257555e,irrelevant_general,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-6e3b11532b1a,irrelevant_general,False,False,0,Communication Services,10-K,2025,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-8abd830c4f6a,operational,True,False,3,Industrials,10-K,2024,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,FN
+augmentation_800,AUG-b2aeae5c9970,planned,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-a9688d02ff71,irrelevant_general,False,False,0,Information Technology,8-K,2024,2023-2025,24.0,negative_zero_vote|2023-2025|8-K|Information Technology,TN
+augmentation_800,AUG-2af012a4cab0,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-5e84b2743327,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2022,2017-2022,72.0,negative_zero_vote|2017-2022|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-8a0570226818,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-fed65abc57f9,operational,True,True,3,Communication Services,10-K,2025,2023-2025,13.0,system_positive|2023-2025|10-K|Communication Services,TP
+augmentation_800,AUG-2f62b4c5eac0,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-5b8b0bff4552,irrelevant_general,False,False,0,Consumer Staples,10-Q,2018,2017-2022,18.0,negative_zero_vote|2017-2022|10-Q|Consumer Staples,TN
+augmentation_800,AUG-cdcf4cc1ec46,operational,True,False,1,Health Care,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-718fc7644434,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-29a49e6e04a6,operational,True,True,3,Industrials,10-K,2019,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-b4a9f133507e,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-3ce6cdb36afe,irrelevant_general,False,False,3,Communication Services,10-K,2025,2023-2025,2.25,negative_boundary|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-e9d2287df073,operational,True,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-ddba1eac346d,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-3e788eacd802,irrelevant_general,False,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-0abcfccd4c70,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-560581378513,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-ea923648ceb1,operational,True,True,2,Information Technology,10-Q,2021,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-71fd3d4b9e52,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-a2a8821c6fa2,operational,True,True,3,Health Care,10-K,2019,2017-2022,11.5,system_positive|2017-2022|10-K|Health Care,TP
+augmentation_800,AUG-9d4b6b2c3f01,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-46b614038b34,planned,False,False,0,Industrials,10-K,2017,2017-2022,64.33333333333333,negative_zero_vote|2017-2022|10-K|Industrials,TN
+augmentation_800,AUG-a1c1762be0e2,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-d84733c83149,operational,True,True,3,Communication Services,10-Q,2024,2023-2025,11.75,system_positive|2023-2025|10-Q|Communication Services,TP
+augmentation_800,AUG-e19fd254177c,operational,True,True,3,Industrials,10-K,2025,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-d20b42656387,irrelevant_general,False,True,3,Information Technology,10-Q,2020,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,FP
+augmentation_800,AUG-8b44a8ac4713,irrelevant_general,False,False,0,Real Estate,10-Q,2024,2023-2025,56.5,negative_zero_vote|2023-2025|10-Q|Real Estate,TN
+augmentation_800,AUG-db9f14055828,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-cd97d41cd980,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-5c0b534ce6a7,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-0de321b73cda,irrelevant_general,False,False,0,Information Technology,10-K,2019,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-fac5068c395a,planned,False,False,0,Industrials,8-K,2018,2017-2022,13.0,negative_zero_vote|2017-2022|8-K|Industrials,TN
+augmentation_800,AUG-e27835753b05,operational,True,True,3,Industrials,10-K,2024,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-0aac56fd0d5a,operational,True,False,3,Communication Services,10-K,2018,2017-2022,1.0,negative_boundary|2017-2022|10-K|Communication Services,FN
+augmentation_800,AUG-4f3de10b00a7,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-fbc65e565059,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2021,2017-2022,56.666666666666664,negative_zero_vote|2017-2022|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-9e0f9e9358e1,irrelevant_general,False,False,0,Information Technology,8-K,2021,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-d5e6611fa65d,operational,True,True,3,Health Care,10-K,2021,2017-2022,11.5,system_positive|2017-2022|10-K|Health Care,TP
+augmentation_800,AUG-0c400c41c48c,planned,False,False,0,Health Care,10-Q,2021,2017-2022,49.0,negative_zero_vote|2017-2022|10-Q|Health Care,TN
+augmentation_800,AUG-4212b797cbe8,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-73a8550ccf79,operational,True,False,3,Materials,10-K,2021,2017-2022,1.0,negative_boundary|2017-2022|10-K|Materials,FN
+augmentation_800,AUG-bd877ab7dcaa,operational,True,False,3,Consumer Discretionary,10-K,2025,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,FN
+augmentation_800,AUG-4c1bf306eb11,planned,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-3b8df30e10b2,operational,True,True,3,Industrials,10-Q,2020,2017-2022,12.0,system_positive|2017-2022|10-Q|Industrials,TP
+augmentation_800,AUG-1f49933b164b,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-2db2e4accf20,operational,True,True,3,Real Estate,10-K,2024,2023-2025,10.0,system_positive|2023-2025|10-K|Real Estate,TP
+augmentation_800,AUG-75f7965e5e71,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-54ddfb9c2ecc,irrelevant_general,False,False,1,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-0d02111d94cf,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-95447e2b7374,operational,True,True,3,Consumer Discretionary,8-K,2021,2017-2022,10.75,system_positive|2017-2022|8-K|Consumer Discretionary,TP
+augmentation_800,AUG-23333de73f94,operational,True,True,3,Consumer Staples,10-K,2020,2017-2022,2.0,system_positive|2017-2022|10-K|Consumer Staples,TP
+augmentation_800,AUG-a2b7f11f1d7c,irrelevant_general,False,False,0,Industrials,10-Q,2024,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-ec17f81bdb95,irrelevant_general,False,False,0,Communication Services,10-Q,2024,2023-2025,68.5,negative_zero_vote|2023-2025|10-Q|Communication Services,TN
+augmentation_800,AUG-bbbe879bf784,operational,True,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-1571541a5169,irrelevant_general,False,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-6fda77b1095d,irrelevant_general,False,False,3,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-04977d5292e6,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-33beba85efe4,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-3e4a7131f3b4,planned,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-bcbf7c651f8d,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-0a2823087838,irrelevant_general,False,False,0,Real Estate,10-K,2022,2017-2022,17.0,negative_zero_vote|2017-2022|10-K|Real Estate,TN
+augmentation_800,AUG-36d31334d18f,operational,True,False,3,Utilities,10-K,2025,2023-2025,2.0,negative_boundary|2023-2025|10-K|Utilities,FN
+augmentation_800,AUG-9b6368eb86ff,irrelevant_general,False,False,3,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-02a6af5de495,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-26c26a548508,operational,True,True,3,Industrials,10-K,2025,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-35c8ce3d5aee,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-2c0dae6a06af,irrelevant_general,False,True,3,Materials,10-K,2025,2023-2025,2.0,system_positive|2023-2025|10-K|Materials,FP
+augmentation_800,AUG-02d614f56328,operational,True,True,3,Financials,10-Q,2018,2017-2022,13.0,system_positive|2017-2022|10-Q|Financials,TP
+augmentation_800,AUG-ccf89765f299,operational,True,False,3,Information Technology,10-K,2020,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-019388a0c6ea,irrelevant_general,False,False,0,Information Technology,8-K,2017,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-5678348789e8,operational,True,False,3,Financials,8-K,2021,2017-2022,1.5,negative_boundary|2017-2022|8-K|Financials,FN
+augmentation_800,AUG-59fa4e174d1c,irrelevant_general,False,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-0b506f3836b8,operational,True,True,3,Consumer Discretionary,8-K,2020,2017-2022,10.75,system_positive|2017-2022|8-K|Consumer Discretionary,TP
+augmentation_800,AUG-ca69effcb59d,planned,False,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-da9d094a52ad,operational,True,False,1,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-b37a23724e92,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-bd5248f09a81,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-2c80ee4aaea7,irrelevant_general,False,False,0,Information Technology,8-K,2017,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-515981472f47,operational,True,False,1,Industrials,10-K,2023,2023-2025,2.375,negative_boundary|2023-2025|10-K|Industrials,FN
+augmentation_800,AUG-763a77259c84,operational,True,True,3,Health Care,10-K,2025,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-393ff6c11673,irrelevant_general,False,False,0,Information Technology,10-Q,2020,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-f559e8431313,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-445c78ccdb9a,operational,True,True,3,Real Estate,10-Q,2025,2023-2025,9.0,system_positive|2023-2025|10-Q|Real Estate,TP
+augmentation_800,AUG-4fc778ba7112,irrelevant_general,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-f56450fa79b1,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-d52f93561b72,irrelevant_general,False,False,0,Consumer Staples,8-K,2019,2017-2022,25.0,negative_zero_vote|2017-2022|8-K|Consumer Staples,TN
+augmentation_800,AUG-e608ac804a73,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2025,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-9d7f87a478a9,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-1f957e1bcaa2,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-08b9ab869412,irrelevant_general,False,False,3,Consumer Discretionary,10-K,2025,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-f19d5bc90423,operational,True,False,3,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-3c9d88d0860a,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-be6be99e426b,planned,False,False,1,Consumer Staples,10-K,2021,2017-2022,1.0,negative_boundary|2017-2022|10-K|Consumer Staples,TN
+augmentation_800,AUG-30bf18863ff2,planned,False,True,2,Consumer Staples,10-Q,2022,2017-2022,2.0,system_positive|2017-2022|10-Q|Consumer Staples,FP
+augmentation_800,AUG-fedd88edfb66,operational,True,False,3,Information Technology,10-Q,2019,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-a8bd0832d4a6,operational,True,True,3,Consumer Staples,8-K,2020,2017-2022,1.0,system_positive|2017-2022|8-K|Consumer Staples,TP
+augmentation_800,AUG-8bbb0bacbb0b,irrelevant_general,False,False,0,Health Care,8-K,2025,2023-2025,16.0,negative_zero_vote|2023-2025|8-K|Health Care,TN
+augmentation_800,AUG-52eeb727ed9f,operational,True,True,3,Consumer Discretionary,10-K,2021,2017-2022,11.0,system_positive|2017-2022|10-K|Consumer Discretionary,TP
+augmentation_800,AUG-7b4e0cd43d56,operational,True,False,3,Information Technology,10-Q,2022,2017-2022,2.375,negative_boundary|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-bc100b036001,operational,True,False,3,Health Care,10-K,2025,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-4b9ca64d1fad,operational,True,True,3,Information Technology,10-Q,2021,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-83dc00adeee4,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-66d9b2d67e13,irrelevant_general,False,False,0,Health Care,10-Q,2024,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-6e6775dceae3,operational,True,True,3,Health Care,10-K,2024,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-5be49dacbf67,operational,True,True,3,Communication Services,10-Q,2025,2023-2025,11.75,system_positive|2023-2025|10-Q|Communication Services,TP
+augmentation_800,AUG-99af2a3c97a6,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2023,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-d86d6490558d,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-358fe3333eed,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-03cc7e63ea5b,irrelevant_general,False,True,2,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-7cdabe29ed23,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-1f0787d151ea,irrelevant_general,False,False,0,Financials,8-K,2024,2023-2025,10.0,negative_zero_vote|2023-2025|8-K|Financials,TN
+augmentation_800,AUG-25526df8c1f7,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-5ab6ec031a16,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-108a8f8f03fc,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-1a62ad0b742b,operational,True,True,3,Consumer Discretionary,10-K,2020,2017-2022,11.0,system_positive|2017-2022|10-K|Consumer Discretionary,TP
+augmentation_800,AUG-863d81127ed5,operational,True,False,3,Information Technology,10-K,2022,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-370ca0a868b0,irrelevant_general,False,False,0,Information Technology,10-Q,2022,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-eb16c11eaca8,operational,True,False,1,Financials,10-K,2023,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-471c75e5ebba,irrelevant_general,False,False,0,Information Technology,10-Q,2017,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-98066d2da601,irrelevant_general,False,False,0,Financials,10-Q,2025,2023-2025,69.83333333333333,negative_zero_vote|2023-2025|10-Q|Financials,TN
+augmentation_800,AUG-151fba9acca3,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-923db27ab398,operational,True,True,3,Financials,10-K,2025,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-e3ad0b2224eb,operational,True,True,3,Industrials,10-K,2022,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-4ba2317ac649,irrelevant_general,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-dabb0b512b31,irrelevant_general,False,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-0e1698b1583e,operational,True,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-1856d8bbe8c0,irrelevant_general,False,True,3,Financials,10-K,2024,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,FP
+augmentation_800,AUG-00ef3d9ced84,operational,True,False,3,Information Technology,10-K,2018,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-c770948f8cb4,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2025,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-28076befb8f4,operational,True,True,3,Industrials,10-Q,2020,2017-2022,12.0,system_positive|2017-2022|10-Q|Industrials,TP
+augmentation_800,AUG-35e8bb9f90ae,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-928cc716ffbf,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-888d7764ce6e,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-f80e60155859,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-6b4008cac276,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-019e20dffbf1,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-23b46382e676,operational,True,True,3,Information Technology,10-Q,2022,2017-2022,11.88888888888889,system_positive|2017-2022|10-Q|Information Technology,TP
+augmentation_800,AUG-44c992150bb5,irrelevant_general,False,True,3,Communication Services,10-K,2024,2023-2025,13.0,system_positive|2023-2025|10-K|Communication Services,FP
+augmentation_800,AUG-c75d2d3895c2,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-92a240230d24,planned,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-de23d33488c8,irrelevant_general,False,False,0,Information Technology,10-K,2018,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-8ae9a93c01ef,irrelevant_general,False,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-d93ecb4af38b,operational,True,True,3,Financials,10-K,2025,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-3328e4d7b615,operational,True,False,3,Financials,10-Q,2025,2023-2025,2.0,negative_boundary|2023-2025|10-Q|Financials,FN
+augmentation_800,AUG-b9b4bee925ef,irrelevant_general,False,False,1,Consumer Staples,10-K,2025,2023-2025,1.5,negative_boundary|2023-2025|10-K|Consumer Staples,TN
+augmentation_800,AUG-c7e9709faed0,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-bd06087ed283,irrelevant_general,False,False,3,Real Estate,10-Q,2018,2017-2022,2.0,negative_boundary|2017-2022|10-Q|Real Estate,TN
+augmentation_800,AUG-ffdf6395540a,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-61d786febe2d,operational,True,True,3,Consumer Discretionary,10-K,2023,2023-2025,10.5,system_positive|2023-2025|10-K|Consumer Discretionary,TP
+augmentation_800,AUG-bbad6d005b3e,operational,True,True,3,Real Estate,10-Q,2022,2017-2022,2.0,system_positive|2017-2022|10-Q|Real Estate,TP
+augmentation_800,AUG-b90885a7a32f,irrelevant_general,False,False,0,Health Care,10-Q,2024,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-2e2aa35f8ca8,irrelevant_general,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-db997bbb8ac2,irrelevant_general,False,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-f1fec6789013,irrelevant_general,False,False,0,Industrials,10-Q,2025,2023-2025,70.0,negative_zero_vote|2023-2025|10-Q|Industrials,TN
+augmentation_800,AUG-6c14d5d50873,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-3660a4fe5ce7,operational,True,True,3,Health Care,10-Q,2025,2023-2025,11.666666666666666,system_positive|2023-2025|10-Q|Health Care,TP
+augmentation_800,AUG-d1e0235e3b4b,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-4140f694d32e,operational,True,False,3,Communication Services,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Communication Services,FN
+augmentation_800,AUG-afcf4730f80b,irrelevant_general,False,False,0,Information Technology,10-Q,2020,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-cc6dba78651e,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-199880b2cc0a,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2024,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-a69addbc36ff,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-a68d1d303bef,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-8a46a5694e5f,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2022,2017-2022,56.666666666666664,negative_zero_vote|2017-2022|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-05183ec5adce,irrelevant_general,False,True,3,Consumer Discretionary,10-K,2021,2017-2022,11.0,system_positive|2017-2022|10-K|Consumer Discretionary,FP
+augmentation_800,AUG-36ac17caf9b6,operational,True,True,3,Health Care,10-Q,2021,2017-2022,9.5,system_positive|2017-2022|10-Q|Health Care,TP
+augmentation_800,AUG-7eeb0fcb4b69,irrelevant_general,False,True,3,Information Technology,10-Q,2023,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-dc65112b5633,operational,True,False,3,Utilities,10-Q,2025,2023-2025,2.0,negative_boundary|2023-2025|10-Q|Utilities,FN
+augmentation_800,AUG-2681fb1368a8,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-a48f41f74742,operational,True,True,3,Communication Services,10-Q,2020,2017-2022,12.333333333333334,system_positive|2017-2022|10-Q|Communication Services,TP
+augmentation_800,AUG-d1a1fc528288,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-00d6b53dc8bc,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-2c2448a46970,operational,True,True,3,Energy,8-K,2020,2017-2022,8.0,system_positive|2017-2022|8-K|Energy,TP
+augmentation_800,AUG-c41f8fe49496,irrelevant_general,False,False,0,Materials,10-K,2024,2023-2025,69.0,negative_zero_vote|2023-2025|10-K|Materials,TN
+augmentation_800,AUG-fea6cd7b40b2,planned,False,False,1,Consumer Staples,10-Q,2023,2023-2025,1.0,negative_boundary|2023-2025|10-Q|Consumer Staples,TN
+augmentation_800,AUG-7026d8007c79,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-fb05b46745fd,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-440659891f43,irrelevant_general,False,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-7291425277cf,operational,True,False,3,Information Technology,10-K,2019,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-2ec5317f5220,irrelevant_general,False,False,3,Information Technology,10-K,2019,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-247c22fa5b8d,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-29f378b386ca,operational,True,True,3,Communication Services,10-Q,2020,2017-2022,12.333333333333334,system_positive|2017-2022|10-Q|Communication Services,TP
+augmentation_800,AUG-e6c9a592280a,irrelevant_general,False,True,3,Information Technology,10-K,2017,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,FP
+augmentation_800,AUG-0edb44c9c0f5,operational,True,False,1,Consumer Discretionary,10-K,2025,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,FN
+augmentation_800,AUG-0f24e3a86af7,irrelevant_general,False,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-9f8feb63c40a,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-99ebb6a22cef,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-c384275c7839,operational,True,False,0,Consumer Staples,10-K,2022,2017-2022,20.0,negative_zero_vote|2017-2022|10-K|Consumer Staples,FN
+augmentation_800,AUG-6aa27c43c9c8,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-e9008c2eba67,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-2569841c8999,irrelevant_general,False,False,0,Information Technology,10-Q,2022,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-0bd634882232,operational,True,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-f0aa1406792c,operational,True,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-d49cb3168ab5,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-d3f24f199c02,operational,True,True,3,Industrials,10-Q,2022,2017-2022,12.0,system_positive|2017-2022|10-Q|Industrials,TP
+augmentation_800,AUG-308b0d4168d7,planned,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-8f43472669de,operational,True,True,3,Industrials,10-K,2022,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-9a77b1a2b35f,irrelevant_general,False,False,3,Information Technology,10-K,2019,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-a62ff69a1db1,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-4875a39f5c84,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-99e00d1bfab4,planned,False,False,0,Industrials,10-K,2021,2017-2022,64.33333333333333,negative_zero_vote|2017-2022|10-K|Industrials,TN
+augmentation_800,AUG-b5376635d732,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-51896f7bd72f,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-89ea0b33849d,operational,True,True,3,Industrials,10-K,2023,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-211f443feb62,operational,True,True,3,Health Care,10-K,2020,2017-2022,11.5,system_positive|2017-2022|10-K|Health Care,TP
+augmentation_800,AUG-41c6f4ba5bdc,irrelevant_general,False,False,0,Information Technology,10-K,2019,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-818d8fbc1c45,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-6e416582b52d,irrelevant_general,False,False,0,Industrials,10-K,2025,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-e9e3477e825c,operational,True,True,3,Industrials,10-K,2025,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-424ff5596eb6,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-6ab85eaf416f,operational,True,False,1,Real Estate,10-K,2024,2023-2025,1.0,negative_boundary|2023-2025|10-K|Real Estate,FN
+augmentation_800,AUG-db34016c1ee4,operational,True,True,3,Health Care,10-K,2024,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-4e69998208f0,irrelevant_general,False,False,0,Information Technology,10-Q,2021,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-913553cf4848,irrelevant_general,False,False,1,Industrials,8-K,2017,2017-2022,1.0,negative_boundary|2017-2022|8-K|Industrials,TN
+augmentation_800,AUG-24c6b44f15a8,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-6f00676199f6,operational,True,True,3,Consumer Discretionary,10-K,2023,2023-2025,10.5,system_positive|2023-2025|10-K|Consumer Discretionary,TP
+augmentation_800,AUG-8f5bcc68f254,operational,True,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-f84d6a2d0037,irrelevant_general,False,False,0,Industrials,10-Q,2021,2017-2022,57.5,negative_zero_vote|2017-2022|10-Q|Industrials,TN
+augmentation_800,AUG-13da9794b0c8,operational,True,False,1,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-a9a2675bece4,operational,True,False,1,Information Technology,10-K,2018,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-b5c3c71a6446,operational,True,False,0,Communication Services,10-Q,2025,2023-2025,68.5,negative_zero_vote|2023-2025|10-Q|Communication Services,FN
+augmentation_800,AUG-ab2ef6e75c44,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-5f9a08c5cd2e,operational,True,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-eb794f5a15a0,planned,False,False,0,Health Care,10-Q,2025,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-2b371ed62c90,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-ea12101245d8,operational,True,True,3,Health Care,10-Q,2024,2023-2025,11.666666666666666,system_positive|2023-2025|10-Q|Health Care,TP
+augmentation_800,AUG-77c2113fbfad,operational,True,True,3,Industrials,10-K,2024,2023-2025,12.181818181818182,system_positive|2023-2025|10-K|Industrials,TP
+augmentation_800,AUG-38f4b788b4e8,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-0872a511350a,irrelevant_general,False,False,0,Information Technology,10-K,2018,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-2018f10be04a,irrelevant_general,False,False,0,Energy,10-Q,2021,2017-2022,68.0,negative_zero_vote|2017-2022|10-Q|Energy,TN
+augmentation_800,AUG-4e962ea6aadc,planned,False,False,0,Health Care,10-K,2024,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-0153f37bf169,operational,True,True,3,Financials,10-K,2025,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-ec6391af9d64,operational,True,True,3,Consumer Discretionary,10-K,2024,2023-2025,10.5,system_positive|2023-2025|10-K|Consumer Discretionary,TP
+augmentation_800,AUG-553895291ec9,operational,True,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-c016f4638253,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-8097ace8e4ed,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-b0811d88be85,irrelevant_general,False,False,0,Health Care,10-K,2023,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-fcbb5475b665,operational,True,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-d24d5b7ea74e,operational,True,False,0,Information Technology,10-Q,2021,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-9c8609d71b3c,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2024,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-a58f0761bbb3,irrelevant_general,False,False,0,Utilities,8-K,2025,2023-2025,2.0,negative_zero_vote|2023-2025|8-K|Utilities,TN
+augmentation_800,AUG-32d73eb0e5af,irrelevant_general,False,False,0,Utilities,10-K,2024,2023-2025,61.333333333333336,negative_zero_vote|2023-2025|10-K|Utilities,TN
+augmentation_800,AUG-d50643831859,operational,True,False,3,Health Care,10-K,2025,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-c8a929788f5c,operational,True,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-8ea7c88eb430,irrelevant_general,False,False,0,Information Technology,10-K,2019,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-969362f157dd,irrelevant_general,False,False,0,Real Estate,10-Q,2017,2017-2022,16.0,negative_zero_vote|2017-2022|10-Q|Real Estate,TN
+augmentation_800,AUG-21ebd902e360,operational,True,True,3,Information Technology,10-Q,2023,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-589d9ee57179,operational,True,True,3,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-386eb364791a,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-3dc2e0dc51d1,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-bb8b1f467fd1,irrelevant_general,False,False,0,Industrials,10-K,2024,2023-2025,71.41666666666667,negative_zero_vote|2023-2025|10-K|Industrials,TN
+augmentation_800,AUG-ebf81e3da1f9,operational,True,False,3,Health Care,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-d107b97bcd7f,irrelevant_general,False,False,0,Information Technology,10-Q,2023,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-2c1a7409c3a0,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-132ee940d894,operational,True,True,3,Information Technology,10-K,2023,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-b1ce40cabc54,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-a92b3aafd9f0,operational,True,False,3,Health Care,10-K,2019,2017-2022,1.6666666666666667,negative_boundary|2017-2022|10-K|Health Care,FN
+augmentation_800,AUG-a082141c550e,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-812e0339a0e7,irrelevant_general,False,False,0,Energy,10-K,2025,2023-2025,44.0,negative_zero_vote|2023-2025|10-K|Energy,TN
+augmentation_800,AUG-ffb1f83667e5,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-fcda7937ccb2,operational,True,False,3,Information Technology,10-Q,2023,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-68749f6f28a7,planned,False,False,1,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-82f46a967673,operational,True,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-58b37d9f3f2b,irrelevant_general,False,False,0,Information Technology,10-Q,2020,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-e00bd6732284,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-1851c3db91cf,operational,True,True,3,Financials,10-K,2025,2023-2025,12.75,system_positive|2023-2025|10-K|Financials,TP
+augmentation_800,AUG-1cbafb5ac04a,operational,True,False,1,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-edfd1ba2b0e5,irrelevant_general,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-c08fba9273d2,operational,True,True,3,Information Technology,10-K,2018,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-cbc575f37284,irrelevant_general,False,False,0,Consumer Staples,10-K,2025,2023-2025,57.8,negative_zero_vote|2023-2025|10-K|Consumer Staples,TN
+augmentation_800,AUG-9afe2dc219f6,operational,True,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-254e05d376bd,operational,True,False,0,Health Care,8-K,2021,2017-2022,27.0,negative_zero_vote|2017-2022|8-K|Health Care,FN
+augmentation_800,AUG-a35396741831,operational,True,True,3,Consumer Discretionary,8-K,2021,2017-2022,10.75,system_positive|2017-2022|8-K|Consumer Discretionary,TP
+augmentation_800,AUG-ac3455707a75,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-c4757299ba5f,operational,True,False,3,Information Technology,10-K,2020,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-e30dc24495d6,operational,True,False,1,Consumer Discretionary,8-K,2018,2017-2022,1.5,negative_boundary|2017-2022|8-K|Consumer Discretionary,FN
+augmentation_800,AUG-4bcf1c551139,irrelevant_general,False,False,1,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-c62c8a697d22,irrelevant_general,False,True,3,Information Technology,10-K,2022,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,FP
+augmentation_800,AUG-d0682261e9d2,operational,True,False,3,Information Technology,10-Q,2024,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-ca4f782cfda1,operational,True,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-42ab10553b24,irrelevant_general,False,False,3,Energy,8-K,2019,2017-2022,1.5,negative_boundary|2017-2022|8-K|Energy,TN
+augmentation_800,AUG-791f14f244a8,operational,True,False,3,Health Care,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-3b5cfdd4802b,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-30bc78e3c1f6,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-cfd840f4541b,operational,True,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-00c08fa137c0,planned,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-799febf1ac03,operational,True,True,3,Information Technology,10-K,2019,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-2e92c73d910a,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-7239d2dbe10e,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-9658cb2b1966,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-4f03475ba6fe,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-d10515205aa0,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-c837d4724bac,irrelevant_general,False,False,3,Information Technology,10-K,2018,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-6ad00a13ffe6,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-cc585a1bee86,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-f6e113cb87ff,irrelevant_general,False,False,0,Materials,10-K,2025,2023-2025,69.0,negative_zero_vote|2023-2025|10-K|Materials,TN
+augmentation_800,AUG-fe673a107bb1,operational,True,True,3,Communication Services,10-Q,2020,2017-2022,12.333333333333334,system_positive|2017-2022|10-Q|Communication Services,TP
+augmentation_800,AUG-c8381ac25ec9,operational,True,True,3,Consumer Discretionary,8-K,2020,2017-2022,10.75,system_positive|2017-2022|8-K|Consumer Discretionary,TP
+augmentation_800,AUG-0ace759e54ab,planned,False,False,0,Health Care,10-K,2019,2017-2022,63.5,negative_zero_vote|2017-2022|10-K|Health Care,TN
+augmentation_800,AUG-a64a6307c5dd,irrelevant_general,False,False,0,Health Care,10-Q,2024,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-2a68281e6f19,operational,True,False,0,Consumer Discretionary,10-Q,2025,2023-2025,65.0,negative_zero_vote|2023-2025|10-Q|Consumer Discretionary,FN
+augmentation_800,AUG-11a79c6cf627,operational,True,False,0,Information Technology,10-Q,2020,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-fe5140deecfd,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-e6aa2aa0a354,irrelevant_general,False,True,3,Information Technology,10-K,2021,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,FP
+augmentation_800,AUG-907d657362c8,operational,True,False,1,Health Care,10-Q,2024,2023-2025,2.0,negative_boundary|2023-2025|10-Q|Health Care,FN
+augmentation_800,AUG-bbaeef403764,irrelevant_general,False,False,0,Information Technology,10-K,2024,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-e8ca261479ec,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-923d810162e7,irrelevant_general,False,False,0,Health Care,10-K,2022,2017-2022,63.5,negative_zero_vote|2017-2022|10-K|Health Care,TN
+augmentation_800,AUG-d4ebbeca49c8,irrelevant_general,False,False,0,Information Technology,10-K,2021,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-8413d06d1a6e,irrelevant_general,False,False,0,Communication Services,8-K,2020,2017-2022,9.0,negative_zero_vote|2017-2022|8-K|Communication Services,TN
+augmentation_800,AUG-1a71ebbcdb11,irrelevant_general,False,False,0,Energy,10-K,2022,2017-2022,66.0,negative_zero_vote|2017-2022|10-K|Energy,TN
+augmentation_800,AUG-6c942bdbc8a2,operational,True,True,3,Communication Services,10-K,2025,2023-2025,13.0,system_positive|2023-2025|10-K|Communication Services,TP
+augmentation_800,AUG-e729b80350b3,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-21119fa1bfc5,operational,True,True,3,Health Care,10-Q,2024,2023-2025,11.666666666666666,system_positive|2023-2025|10-Q|Health Care,TP
+augmentation_800,AUG-2fb128e05a96,irrelevant_general,False,False,0,Information Technology,10-K,2023,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-adbf8e8983f0,operational,True,False,1,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-e44d038595a1,operational,True,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-08831b132600,irrelevant_general,False,False,0,Financials,10-K,2025,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-5cb9adcaf1d6,irrelevant_general,False,False,0,Health Care,10-K,2025,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-d1485c49dc2a,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-48f7913f7c15,irrelevant_general,False,False,3,Information Technology,10-K,2024,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-109bde484a67,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-26040c58a81f,irrelevant_general,False,False,0,Financials,10-Q,2025,2023-2025,69.83333333333333,negative_zero_vote|2023-2025|10-Q|Financials,TN
+augmentation_800,AUG-4fc7d6c3c2a4,operational,True,True,2,Information Technology,10-Q,2024,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-93d906942adc,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-a5a393bbb66b,operational,True,False,0,Health Care,10-Q,2024,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,FN
+augmentation_800,AUG-a22e56af28ee,irrelevant_general,False,False,1,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-900837624199,operational,True,True,3,Communication Services,10-Q,2025,2023-2025,11.75,system_positive|2023-2025|10-Q|Communication Services,TP
+augmentation_800,AUG-859c9564c339,operational,True,False,3,Consumer Discretionary,10-K,2024,2023-2025,2.2857142857142856,negative_boundary|2023-2025|10-K|Consumer Discretionary,FN
+augmentation_800,AUG-2992427d5fdb,irrelevant_general,False,False,0,Communication Services,10-K,2021,2017-2022,62.0,negative_zero_vote|2017-2022|10-K|Communication Services,TN
+augmentation_800,AUG-3a3bd6a16384,operational,True,True,3,Information Technology,10-K,2018,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-6ad229d8ea1a,operational,True,False,3,Information Technology,10-K,2020,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-a433f788472b,irrelevant_general,False,False,0,Information Technology,10-Q,2018,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,TN
+augmentation_800,AUG-0ec9475d0136,operational,True,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-cd9fd85a6b8a,planned,False,False,0,Financials,10-K,2024,2023-2025,70.9090909090909,negative_zero_vote|2023-2025|10-K|Financials,TN
+augmentation_800,AUG-550f4e7f2605,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-1e9c7f4143f0,operational,True,True,3,Real Estate,10-K,2025,2023-2025,10.0,system_positive|2023-2025|10-K|Real Estate,TP
+augmentation_800,AUG-66dc0f589b8f,planned,False,False,0,Information Technology,10-Q,2024,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-dffbd3a62558,irrelevant_general,False,False,0,Energy,10-K,2025,2023-2025,44.0,negative_zero_vote|2023-2025|10-K|Energy,TN
+augmentation_800,AUG-7177e46249e2,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-a81e8ff1abfc,irrelevant_general,False,False,0,Financials,8-K,2021,2017-2022,26.0,negative_zero_vote|2017-2022|8-K|Financials,TN
+augmentation_800,AUG-f265724dc824,pilot_trial,False,False,0,Consumer Discretionary,8-K,2021,2017-2022,55.5,negative_zero_vote|2017-2022|8-K|Consumer Discretionary,TN
+augmentation_800,AUG-4b206ed96a58,operational,True,False,0,Information Technology,10-Q,2020,2017-2022,71.52631578947368,negative_zero_vote|2017-2022|10-Q|Information Technology,FN
+augmentation_800,AUG-66ca1f5cd99b,irrelevant_general,False,False,0,Utilities,10-K,2025,2023-2025,61.333333333333336,negative_zero_vote|2023-2025|10-K|Utilities,TN
+augmentation_800,AUG-e4f2cb1d03b5,operational,True,False,3,Information Technology,10-K,2020,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-53405590bfd1,irrelevant_general,False,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,FP
+augmentation_800,AUG-c04d119ddbdb,irrelevant_general,False,False,3,Communication Services,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-aa1e849789ea,operational,True,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-dc79a82ff8b7,irrelevant_general,False,False,0,Consumer Discretionary,10-Q,2022,2017-2022,56.666666666666664,negative_zero_vote|2017-2022|10-Q|Consumer Discretionary,TN
+augmentation_800,AUG-84b0051ddf79,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-8b782976a493,operational,True,True,3,Health Care,10-K,2025,2023-2025,12.090909090909092,system_positive|2023-2025|10-K|Health Care,TP
+augmentation_800,AUG-723fc762ae02,irrelevant_general,False,False,3,Information Technology,10-K,2025,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-3035ecd9bb91,operational,True,False,1,Financials,10-K,2025,2023-2025,2.2222222222222223,negative_boundary|2023-2025|10-K|Financials,FN
+augmentation_800,AUG-00f4d4f64e9c,planned,False,False,0,Consumer Discretionary,10-K,2024,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-3df87a404505,irrelevant_general,False,False,0,Consumer Staples,10-Q,2024,2023-2025,44.5,negative_zero_vote|2023-2025|10-Q|Consumer Staples,TN
+augmentation_800,AUG-74175ada0094,operational,True,True,3,Information Technology,10-Q,2025,2023-2025,12.807692307692308,system_positive|2023-2025|10-Q|Information Technology,TP
+augmentation_800,AUG-51f2085d4a24,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-0bec4940c44a,irrelevant_general,False,False,0,Health Care,10-K,2024,2023-2025,69.4,negative_zero_vote|2023-2025|10-K|Health Care,TN
+augmentation_800,AUG-191a58f9fb39,operational,True,False,3,Information Technology,10-K,2018,2017-2022,2.4285714285714284,negative_boundary|2017-2022|10-K|Information Technology,FN
+augmentation_800,AUG-f4da828db426,operational,True,False,1,Industrials,10-Q,2023,2023-2025,2.3333333333333335,negative_boundary|2023-2025|10-Q|Industrials,FN
+augmentation_800,AUG-087c7760a010,irrelevant_general,False,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,TN
+augmentation_800,AUG-1f5d1c0bc9c7,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-79add7177936,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-91c528bda7cf,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-9c8a5fb445a1,operational,True,True,3,Information Technology,10-K,2020,2017-2022,13.03125,system_positive|2017-2022|10-K|Information Technology,TP
+augmentation_800,AUG-edab8721f0ff,irrelevant_general,False,False,0,Information Technology,8-K,2017,2017-2022,66.42857142857143,negative_zero_vote|2017-2022|8-K|Information Technology,TN
+augmentation_800,AUG-a3921d441799,operational,True,True,3,Industrials,10-K,2019,2017-2022,12.857142857142858,system_positive|2017-2022|10-K|Industrials,TP
+augmentation_800,AUG-9360d3537f04,operational,True,False,3,Information Technology,10-Q,2025,2023-2025,2.4705882352941178,negative_boundary|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-420218f71e81,irrelevant_general,False,False,0,Information Technology,10-K,2020,2017-2022,69.44,negative_zero_vote|2017-2022|10-K|Information Technology,TN
+augmentation_800,AUG-f901d7b398b9,irrelevant_general,False,False,0,Health Care,10-Q,2025,2023-2025,64.25,negative_zero_vote|2023-2025|10-Q|Health Care,TN
+augmentation_800,AUG-3eb659b39117,irrelevant_general,False,False,0,Communication Services,10-Q,2025,2023-2025,68.5,negative_zero_vote|2023-2025|10-Q|Communication Services,TN
+augmentation_800,AUG-71f34e5c3e55,irrelevant_general,False,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,FP
+augmentation_800,AUG-1b880da0b149,operational,True,False,3,Information Technology,10-K,2023,2023-2025,2.4375,negative_boundary|2023-2025|10-K|Information Technology,FN
+augmentation_800,AUG-c129fdfc849d,irrelevant_general,False,False,0,Communication Services,10-K,2025,2023-2025,62.42857142857143,negative_zero_vote|2023-2025|10-K|Communication Services,TN
+augmentation_800,AUG-530c32bdf981,operational,True,False,3,Health Care,10-K,2024,2023-2025,2.25,negative_boundary|2023-2025|10-K|Health Care,FN
+augmentation_800,AUG-a23dd78938a5,operational,True,True,3,Industrials,8-K,2021,2017-2022,13.0,system_positive|2017-2022|8-K|Industrials,TP
+augmentation_800,AUG-eb19a15a1a53,operational,True,False,0,Information Technology,10-Q,2025,2023-2025,71.51388888888889,negative_zero_vote|2023-2025|10-Q|Information Technology,FN
+augmentation_800,AUG-af1e8cbd8363,irrelevant_general,False,False,0,Information Technology,10-K,2025,2023-2025,71.48333333333333,negative_zero_vote|2023-2025|10-K|Information Technology,TN
+augmentation_800,AUG-aca73b0e2270,operational,True,False,1,Energy,10-K,2022,2017-2022,2.0,negative_boundary|2017-2022|10-K|Energy,FN
+augmentation_800,AUG-71675562aac9,irrelevant_general,False,False,0,Consumer Discretionary,10-K,2025,2023-2025,71.75,negative_zero_vote|2023-2025|10-K|Consumer Discretionary,TN
+augmentation_800,AUG-8d2bed350bc0,operational,True,True,3,Information Technology,10-K,2025,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP
+augmentation_800,AUG-fe5a0dc46fd1,operational,True,True,3,Information Technology,10-K,2024,2023-2025,12.824561403508772,system_positive|2023-2025|10-K|Information Technology,TP

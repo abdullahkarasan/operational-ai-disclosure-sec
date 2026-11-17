@@ -1,0 +1,8 @@
+file,bytes
+augmentation_design_key.public.jsonl,1173509
+augmentation_labels.csv,25870
+filing_frame.csv,1699725
+gold_design_key.public.jsonl,305018
+gold_labels.csv,6297
+predictions_full_26279.public.jsonl.gz,5098864
+validation_audit_rows.csv,162115

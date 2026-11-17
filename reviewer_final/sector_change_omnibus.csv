@@ -1,0 +1,2 @@
+test,statistic,df,p_value,inference_status,interpretation
+equality_of_sector_period_changes,7.60989726275602,10,0.666881666508342,approximate joint Wald with conservative singleton covariance envelope,descriptive sector-by-period interaction; not causal difference-in-differences

@@ -1,0 +1,4 @@
+form,processed_eligible_filings,filings_with_retained_candidates,retained_candidate_filing_share,retained_candidate_passages,passages_per_100_processed_filings,scope
+10-K,4175,1630,0.3904191616766467,14639,350.63473053892216,Processed eligible filing exposure; candidate-free filings are not verified nonadoption.
+10-Q,12648,1986,0.15702087286527514,10672,84.37697659709045,Processed eligible filing exposure; candidate-free filings are not verified nonadoption.
+8-K,16241,499,0.03072470906963857,968,5.960224124130288,Processed eligible filing exposure; candidate-free filings are not verified nonadoption.

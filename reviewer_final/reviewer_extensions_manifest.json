@@ -1,0 +1,109 @@
+{
+  "inputs": {
+    "census": {
+      "filename": "predictions_full_26279.jsonl.gz",
+      "sha256": "839ceab62b8aebd5dc0646d81a96284661422727e2b9951c391baaf75bd4f719"
+    },
+    "original_key": {
+      "filename": "gold_restricted_key.jsonl",
+      "sha256": "4d228531c32e62eaf8b7ce5f5d9cf2b03f484344473ae6cef33c04739799513e"
+    },
+    "original_labels": {
+      "filename": "AI_exposure_gold_annotation_200_ADJUDICATED.xlsx",
+      "sha256": "69db2f7300de82f4e7f5e01d5af16edc8d2e038eb526ad91693dbc264fea6d96"
+    },
+    "augmentation_key": {
+      "filename": "additional_validation_restricted_key.jsonl",
+      "sha256": "32f25dfa1c5759079f7950ac554a86311a56042e67dd95b49a9966cb768ae7f9"
+    },
+    "coder_a": {
+      "filename": "AI_exposure_additional_annotation_800_CODER_A_CORRECTED.xlsx",
+      "sha256": "8ff3246111a2258b144d7f6f0815f36f32d44fbaba4a99ce4ab2ee9e949bc408"
+    },
+    "filing_frame": {
+      "filename": "filing_frame.csv",
+      "sha256": "fa7b7b8fe155ac48cbbd44a41a672ea7e17105d12df34a3aff4a1f26d08f5058"
+    }
+  },
+  "empirical_status": "Computed from user-specified inputs; software tests alone do not validate empirical data.",
+  "figures": [
+    "keyword_operational_benchmark.png",
+    "composition_decomposition.png"
+  ],
+  "analyses": {
+    "joint_domain_estimates": {
+      "rows": 121,
+      "status": "computed"
+    },
+    "measurement_gap_tests": {
+      "rows": 23,
+      "status": "computed"
+    },
+    "temporal_tests": {
+      "rows": 4,
+      "status": "computed"
+    },
+    "keyword_operational_benchmark": {
+      "rows": 23,
+      "status": "computed"
+    },
+    "filing_form_coverage": {
+      "rows": 3,
+      "status": "computed"
+    },
+    "form_period_robustness": {
+      "rows": 9,
+      "status": "computed"
+    },
+    "zero_variance_domain_stress": {
+      "rows": 3,
+      "status": "computed"
+    },
+    "sector_period_decomposition": {
+      "rows": 3,
+      "status": "computed"
+    },
+    "sector_period_weights": {
+      "rows": 11,
+      "status": "computed"
+    },
+    "sector_form_period_decomposition": {
+      "rows": 3,
+      "status": "computed"
+    },
+    "sector_form_period_weights": {
+      "rows": 28,
+      "status": "computed"
+    },
+    "sector_changes": {
+      "rows": 11,
+      "status": "computed"
+    },
+    "sector_change_omnibus": {
+      "rows": 1,
+      "status": "computed"
+    },
+    "density_decomposition": {
+      "rows": 3,
+      "status": "computed"
+    },
+    "sector_rank_reversals": {
+      "rows": 55,
+      "status": "computed"
+    }
+  },
+  "ppi_ht_nested_domain_max_difference": 8.1601392309949e-15,
+  "estimator_identity": "With model-constant cells and nested domains, PPI equals the direct stratified HT human estimator; do not claim extra conditional efficiency.",
+  "challenger_frozen_before_evaluation": false,
+  "label_assistance": "unknown",
+  "independent_coding_confirmed": false,
+  "theory_tests": "Developed after aggregate results were known; exploratory, not preregistered.",
+  "warnings": [
+    "Finite-population sampling uncertainty only; human-reference error and disclosure selection are not corrected.",
+    "Normal/Wald and singleton-bound intervals are approximate; sparse or zero-variance directions require scrutiny.",
+    "Sector-period interaction and cutoff sensitivity are descriptive, not causal event effects.",
+    "Holm adjustment is applied within explicitly separate analysis families.",
+    "Keyword-positive passage counts are not lexical occurrence counts; density exposure requires the full eligible filing frame.",
+    "Legacy Telecommunication Services labels in the filing frame are harmonized to Communication Services."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source": "Rounded headline quantities in the user-supplied manuscript; not a new empirical rerun.",
+  "inputs": {
+    "prevalence": 0.1653,
+    "recall": 0.566,
+    "raw_positive_rate": 0.116,
+    "precision": 0.806
+  },
+  "implied_false_negative_mass": 0.0717402,
+  "implied_false_positive_mass": 0.022503999999999996,
+  "missed_to_spurious_ratio": 3.187886597938145,
+  "relative_raw_undercount": 0.2982456140350877
+}

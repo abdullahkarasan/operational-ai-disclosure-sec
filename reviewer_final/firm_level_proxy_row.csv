@@ -1,0 +1,5 @@
+period,proxy,positive_candidate_firm_years,candidate_firm_years,share,scope
+2017-2022,one_evidence_proxy,398,788,0.5050761421319797,Exploratory CIK-based model-label proxy among candidate-observed firm-years
+2017-2022,two_accession_proxy,114,788,0.1446700507614213,Exploratory CIK-based model-label proxy among candidate-observed firm-years
+2023-2025,one_evidence_proxy,373,983,0.37945066124109866,Exploratory CIK-based model-label proxy among candidate-observed firm-years
+2023-2025,two_accession_proxy,115,983,0.11698880976602238,Exploratory CIK-based model-label proxy among candidate-observed firm-years

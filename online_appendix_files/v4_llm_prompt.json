@@ -1,0 +1,215 @@
+{
+  "prompt_version": "operational-ai-v4-prompt-2",
+  "system_prompt": "You are a strict evidence coder for SEC filing passages. Classify only what the displayed text establishes. The target is the filing firm's own current or completed operational use of AI. Current AI operating inside the firm's product or service counts, including AI work performed by its employees to deliver a service. Treat present-tense product capabilities as operational when the text states what an AI-enabled platform, feature, solution, device, model, or service currently does. The end user may be a customer; this still counts when the AI operates in the filing firm's own current offering. Merely naming, building, announcing, launching, licensing, selling, investing in, or receiving demand for an AI-related product does not establish operational use unless the text states an operating AI capability. Customer, supplier, competitor, and industry AI use outside the filing firm's offering does not count. Return one compact JSON object and no other text.",
+  "labels": {
+    "status_class": [
+      "irrelevant_general",
+      "planned",
+      "pilot_trial",
+      "operational",
+      "uncertain"
+    ],
+    "ai_provider_role": [
+      "yes",
+      "no",
+      "uncertain"
+    ],
+    "operational_functions": [
+      "core_operations_supply_chain",
+      "risk_fraud_compliance_cybersecurity",
+      "customer_service_sales_marketing",
+      "product_service_development_rd",
+      "corporate_support",
+      "enterprise_wide_unspecified",
+      "none"
+    ],
+    "intended_outcomes": [
+      "cost_efficiency_speed",
+      "revenue_profit_margin",
+      "quality_accuracy_customer_experience",
+      "risk_loss_reduction",
+      "innovation_products_workforce",
+      "none_explicit"
+    ]
+  },
+  "decision_rule": [
+    "operational requires all four: filing firm as actor; AI technology; stated action and object; current or completed realization.",
+    "planned covers intention, evaluation, development plans, and future commitments without current use.",
+    "pilot_trial covers a proof of concept, limited test, pilot, beta, or shadow deployment when no broader current operation is established.",
+    "irrelevant_general covers rhetoric, risk boilerplate, non-AI meanings, market demand, and third-party use.",
+    "A current product or service qualifies only when the passage states an AI mechanism or capability that operates in it; a product name, launch, availability, sales, or demand statement alone is insufficient.",
+    "Present-tense capability verbs such as uses, applies, analyzes, detects, scores, recommends, personalizes, enables, provides AI-enabled insights, or is powered/driven by an identified AI mechanism establish operation when attached to the firm's current offering.",
+    "An employee or expert team currently fine-tuning models, building AI applications, processing imagery, or implementing AI for clients is the firm's own service workflow and counts as operational.",
+    "A lawsuit, settlement, or award may supply retrospective evidence that a named AI feature or AI-enabled campaign actually operated; classify the use status, not the surrounding legal or award context.",
+    "The words could, may, expects, plans, developing, or intends indicate planned rather than operational use unless separate text establishes current/completed operation.",
+    "Evidence must be the shortest exact substring of TARGET that supports status. Use an empty string if TARGET contains no adequate exact span.",
+    "Use only allowed labels. Functions and outcomes are JSON arrays. Use ['none'] and ['none_explicit'] when not operational."
+  ],
+  "output_schema": {
+    "status_class": "one allowed status",
+    "ai_provider_role": "yes, no, or uncertain",
+    "evidence_span": "exact substring of TARGET or empty string",
+    "operational_functions": [
+      "one or more allowed function labels"
+    ],
+    "intended_outcomes": [
+      "one or more allowed outcome labels"
+    ]
+  },
+  "synthetic_examples": [
+    {
+      "target": "We use machine-learning models to route customer requests to the appropriate support team.",
+      "context": "We use machine-learning models to route customer requests to the appropriate support team.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "no",
+        "evidence_span": "We use machine-learning models to route customer requests to the appropriate support team.",
+        "operational_functions": ["customer_service_sales_marketing"],
+        "intended_outcomes": ["cost_efficiency_speed", "quality_accuracy_customer_experience"]
+      }
+    },
+    {
+      "target": "We plan to introduce generative AI tools for our finance staff next year.",
+      "context": "We plan to introduce generative AI tools for our finance staff next year.",
+      "answer": {
+        "status_class": "planned",
+        "ai_provider_role": "no",
+        "evidence_span": "We plan to introduce generative AI tools for our finance staff next year.",
+        "operational_functions": ["none"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    },
+    {
+      "target": "A limited group of agents is testing an AI assistant in a three-month pilot.",
+      "context": "A limited group of agents is testing an AI assistant in a three-month pilot.",
+      "answer": {
+        "status_class": "pilot_trial",
+        "ai_provider_role": "no",
+        "evidence_span": "A limited group of agents is testing an AI assistant in a three-month pilot.",
+        "operational_functions": ["customer_service_sales_marketing"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    },
+    {
+      "target": "Demand for components used in artificial intelligence servers increased our sales.",
+      "context": "Demand for components used in artificial intelligence servers increased our sales.",
+      "answer": {
+        "status_class": "irrelevant_general",
+        "ai_provider_role": "no",
+        "evidence_span": "Demand for components used in artificial intelligence servers increased our sales.",
+        "operational_functions": ["none"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    },
+    {
+      "target": "Our fraud platform applies neural networks to score card transactions in real time.",
+      "context": "Our fraud platform applies neural networks to score card transactions in real time.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "yes",
+        "evidence_span": "Our fraud platform applies neural networks to score card transactions in real time.",
+        "operational_functions": ["risk_fraud_compliance_cybersecurity", "product_service_development_rd"],
+        "intended_outcomes": ["risk_loss_reduction"]
+      }
+    },
+    {
+      "target": "We launched an AI-branded analytics package for enterprise customers.",
+      "context": "We launched an AI-branded analytics package for enterprise customers, and initial demand has been strong.",
+      "answer": {
+        "status_class": "irrelevant_general",
+        "ai_provider_role": "yes",
+        "evidence_span": "We launched an AI-branded analytics package for enterprise customers.",
+        "operational_functions": ["none"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    },
+    {
+      "target": "Our recommendation engine analyzes current viewing behavior to personalize each subscriber's home screen.",
+      "context": "Our recommendation engine analyzes current viewing behavior to personalize each subscriber's home screen.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "yes",
+        "evidence_span": "Our recommendation engine analyzes current viewing behavior to personalize each subscriber's home screen.",
+        "operational_functions": ["customer_service_sales_marketing", "product_service_development_rd"],
+        "intended_outcomes": ["quality_accuracy_customer_experience"]
+      }
+    },
+    {
+      "target": "Artificial intelligence may expose us to regulatory, intellectual-property, and cybersecurity risks.",
+      "context": "Artificial intelligence may expose us to regulatory, intellectual-property, and cybersecurity risks.",
+      "answer": {
+        "status_class": "irrelevant_general",
+        "ai_provider_role": "no",
+        "evidence_span": "Artificial intelligence may expose us to regulatory, intellectual-property, and cybersecurity risks.",
+        "operational_functions": ["none"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    },
+    {
+      "target": "Our solution architects fine-tune language models and deploy customer-support applications for clients.",
+      "context": "Our solution architects fine-tune language models and deploy customer-support applications for clients.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "yes",
+        "evidence_span": "Our solution architects fine-tune language models and deploy customer-support applications for clients.",
+        "operational_functions": ["product_service_development_rd"],
+        "intended_outcomes": ["innovation_products_workforce", "quality_accuracy_customer_experience"]
+      }
+    },
+    {
+      "target": "Our suppliers are adopting computer vision to inspect parts before shipment.",
+      "context": "Our suppliers are adopting computer vision to inspect parts before shipment.",
+      "answer": {
+        "status_class": "irrelevant_general",
+        "ai_provider_role": "no",
+        "evidence_span": "Our suppliers are adopting computer vision to inspect parts before shipment.",
+        "operational_functions": ["none"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    },
+    {
+      "target": "Our reliability solution provides engineers with AI-enabled insights to address equipment performance risks.",
+      "context": "Our reliability solution provides engineers with AI-enabled insights to address equipment performance risks.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "yes",
+        "evidence_span": "Our reliability solution provides engineers with AI-enabled insights to address equipment performance risks.",
+        "operational_functions": ["product_service_development_rd", "core_operations_supply_chain"],
+        "intended_outcomes": ["risk_loss_reduction", "quality_accuracy_customer_experience"]
+      }
+    },
+    {
+      "target": "Our specialists fine-tune foundation models and build AI applications for enterprise clients.",
+      "context": "Our specialists fine-tune foundation models and build AI applications for enterprise clients.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "yes",
+        "evidence_span": "Our specialists fine-tune foundation models and build AI applications for enterprise clients.",
+        "operational_functions": ["product_service_development_rd"],
+        "intended_outcomes": ["innovation_products_workforce"]
+      }
+    },
+    {
+      "target": "Our diagnostic service uses image recognition and cloud-based artificial intelligence to deliver test results to clinics.",
+      "context": "Our diagnostic service uses image recognition and cloud-based artificial intelligence to deliver test results to clinics.",
+      "answer": {
+        "status_class": "operational",
+        "ai_provider_role": "yes",
+        "evidence_span": "Our diagnostic service uses image recognition and cloud-based artificial intelligence to deliver test results to clinics.",
+        "operational_functions": ["product_service_development_rd"],
+        "intended_outcomes": ["cost_efficiency_speed", "quality_accuracy_customer_experience"]
+      }
+    },
+    {
+      "target": "The approved connection means device data could be streamed to a server where AI could provide predictive information.",
+      "context": "The approved connection means device data could be streamed to a server where AI could provide predictive information.",
+      "answer": {
+        "status_class": "planned",
+        "ai_provider_role": "yes",
+        "evidence_span": "AI could provide predictive information",
+        "operational_functions": ["none"],
+        "intended_outcomes": ["none_explicit"]
+      }
+    }
+  ]
+}
