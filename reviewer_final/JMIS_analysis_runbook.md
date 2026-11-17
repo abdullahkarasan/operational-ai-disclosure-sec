@@ -5,11 +5,9 @@
 Run **two scripts**:
 
 1. `v4_priority_analysis_package.py` produces the original analyses, tables, figures, and report.
-2. `v5_reviewer_extensions.py` produces the reviewer-driven statistical tests.
+2. `v5_reviewer_extensions.py` produces the additional statistical tests.
 
 Neither script reruns the language model. Both use existing frozen predictions and human labels. The actual study data are required; synthetic software-test outputs are not study findings.
-
-Download and extract the latest [manuscript and code package](https://chatgpt.com/library?file_id=libfile_50c9fdd5050c8191838b87972632577c&account_id=1ed38f50-0074-4dc3-8392-faa5196a3a7b).
 
 ## 1. Prepare the files
 
@@ -142,7 +140,7 @@ That substitution is a sensitivity analysis. It is not new independent reliabili
 
 You do not need to run `v4_final_design_inference.py` separately for this workflow: the updated priority script recomputes the core design estimates. Its old `--ppi-dir` and `--final-design-dir` arguments are unnecessary.
 
-## 4. Run the reviewer-driven tests
+## 4. Run the additional tests
 
 ```bash
 python v5_reviewer_extensions.py \
@@ -294,7 +292,7 @@ Performance uncertainty uses ratio linearization, finite-population corrections,
 
 Coverage results are in `priority_final/coverage_simulation.json`. They assess specified synthetic finite populations preserving the sampling design. They are not proof of coverage for the actual unknown human labels.
 
-## 7. Reviewer-driven tests
+## 7. Additional tests
 
 These outputs are directly under `reviewer_final/`.
 
@@ -459,7 +457,7 @@ The priority output also contains Excel tables, PNG figures, a PDF report, `anal
 - **Out-of-range estimates or intervals:** difference estimators and Wald intervals are not silently clipped. Inspect the diagnostics and sparse-cell limitations.
 - **Significance:** interpret adjusted p-values alongside effect magnitude, uncertainty, denominators, and common-support coverage.
 - **Claim boundaries:** sampling uncertainty does not include human-reference error, lexical retrieval error, disclosure selection, or undisclosed deployment.
-- **Analysis timing:** these reviewer-driven tests were developed after aggregate results were known. Describe them as theory-informed exploratory analyses, not preregistered tests.
+- **Analysis timing:** these tests were developed after aggregate results were known. Describe them as theory-informed exploratory analyses, not preregistered tests.
 
 ## 12. Return the results for manuscript integration
 

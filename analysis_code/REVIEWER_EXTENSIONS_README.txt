@@ -1,9 +1,8 @@
-REVIEWER-DRIVEN EXTENSIONS (v5)
+DESIGN-BASED ANALYSIS EXTENSIONS (v5)
 
-v5_reviewer_extensions.py adds actual executable analyses rather than invented
-findings. Keep it alongside v4_analysis_common.py. No empirical census or audit
-labels were supplied in the conversation. Tests and illustrative checks use
-synthetic inputs and are not results for this paper.
+v5_reviewer_extensions.py implements the design-based analyses reported in the
+manuscript. Keep it alongside v4_analysis_common.py. Unit tests use synthetic
+inputs and are separate from the empirical results.
 
 Run with the reconciled actual data:
 

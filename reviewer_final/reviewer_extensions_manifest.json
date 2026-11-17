@@ -25,7 +25,7 @@
       "sha256": "fa7b7b8fe155ac48cbbd44a41a672ea7e17105d12df34a3aff4a1f26d08f5058"
     }
   },
-  "empirical_status": "Computed from user-specified inputs; software tests alone do not validate empirical data.",
+  "empirical_status": "Computed from the input files identified by filename and SHA-256 hash.",
   "figures": [
     "keyword_operational_benchmark.png",
     "composition_decomposition.png"

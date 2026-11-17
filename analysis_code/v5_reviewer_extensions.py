@@ -749,7 +749,7 @@ def main():
     identity=exact[exact.dimension.isin(['overall','period','sector','form','form_period','sector_period','sector_form_period'])]
     max_gap=float(identity.ppi_minus_direct.abs().max())
     if max_gap>1e-9:raise AssertionError('PPI/HT identity fails in nested domains; verify frame totals and sampling cells.')
-    summary=dict(inputs=provenance,empirical_status='Computed from user-specified inputs; software tests alone do not validate empirical data.',
+    summary=dict(inputs=provenance,empirical_status='Computed from the input files identified by filename and SHA-256 hash.',
         figures=figures,
         analyses={k:dict(rows=len(v),status='computed' if not v.empty else 'not estimable or required exposure/common support absent') for k,v in tables.items()},
         ppi_ht_nested_domain_max_difference=max_gap,
