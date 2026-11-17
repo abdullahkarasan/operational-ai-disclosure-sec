@@ -1,8 +1,7 @@
 # Operational AI Disclosure in SEC Filings
 
-This repository contains the manuscript, online appendix, sanitized aggregate-analysis
-inputs, and replication code for a study of operational AI disclosure in SEC filings
-from 2017 through 2025.
+This repository contains sanitized aggregate-analysis inputs and replication code
+for a study of operational AI disclosure in SEC filings from 2017 through 2025.
 
 The repository is intended for replication and learning. It does **not** require an
 LLM API key: the frozen passage-level model outputs and probability-audit design
@@ -10,12 +9,10 @@ variables needed for the reported aggregate analyses are included.
 
 ## Main files
 
-- `main.tex` and `main.pdf`: manuscript source and compiled paper.
-- `online_appendix.tex` and `online_appendix.pdf`: standalone online appendix.
 - `online_appendix_files/`: frozen retrieval lexicon and LLM coding prompt.
 - `analysis_code/`: analysis, robustness, test, and public-data export scripts.
 - `data/`: sanitized analysis inputs.
-- `reviewer_final/`: published result tables and figures used by the manuscript.
+- `reviewer_final/`: result tables and figures.
 
 ## Data scope
 
@@ -74,15 +71,6 @@ firm-years; they are not estimates of firm adoption.
 python -m unittest discover -s analysis_code/tests -v
 ```
 
-## Build the paper
-
-A TeX distribution with `latexmk` is required.
-
-```bash
-latexmk -pdf -interaction=nonstopmode -halt-on-error main.tex
-latexmk -pdf -interaction=nonstopmode -halt-on-error online_appendix.tex
-```
-
 ## Rebuilding the sanitized export
 
 `analysis_code/export_replication_data.py` is included for provenance. It expects
@@ -94,7 +82,7 @@ replication. It is not needed to use the public repository.
 The target estimand is the share of retained AI-related passage windows that satisfy
 the operational-disclosure coding rule. It is not the share of firms adopting AI,
 the share of all filing sentences discussing operational AI, or verified real-world
-deployment. The manuscript and appendix document the uncertainty estimator and
+deployment. The analysis documentation describes the uncertainty estimator and
 additional limitations.
 
 ## License
